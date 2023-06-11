@@ -1,0 +1,88 @@
+<div *ngIf="true">
+    <div class="d-flex justify-content-between align-items-center">
+        <div class="app-logo">
+            <div class="logo">
+                <img height="140px" src="assets/logo-color.png" width="280px">
+            </div>
+        </div>
+
+        <mat-card class="card-title">
+            <mat-card-title>Better Children-Better India</mat-card-title>
+        </mat-card>
+
+        <div class="app-cat">
+            <div class="cat">
+                <div class="ear ear--left"></div>
+                <div class="ear ear--right"></div>
+                <div class="face">
+                    <div class="eye eye--left">
+                        <div class="eye-pupil"></div>
+                    </div>
+                    <div class="eye eye--right">
+                        <div class="eye-pupil"></div>
+                    </div>
+                    <div class="muzzle"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container">
+     
+
+        <mat-card class="card-data my-4">
+            <mat-card-header>
+                <mat-card-title>Foundation Stage </mat-card-title>
+                <mat-card-subtitle>Foundation Stage 1 takes place in a pre-school or childcare environment such as
+                    Nursery
+                    between the ages 3 and 4 but is non-compulsory education. Foundation Stage 2 takes place in the
+                    Reception
+                    class of an Infant or Primary school between the ages 4 and 5. It is also known as Key Stage 0 to
+                    fit in
+                    alongside key stages 1 to 4.
+                    The introduction of a Foundation Stage was a significant landmark in education. The early years were
+                    given a
+                    distinct identity, and a more detailed, focused curriculum, where the emphasis is on learning
+                    through
+                    planned play activities.</mat-card-subtitle>
+            </mat-card-header>
+        </mat-card>
+
+        <mat-card class="card-data">
+            <mat-card-header>
+                <mat-card-title>NCF Framework for Foundation Stage </mat-card-title>
+                <mat-card-subtitle>
+                    This is the first ever integrated Curriculum Framework for children between ages 3-8 in India. It
+                    is a direct outcome of the 5+3+3+4 ‘curricular and pedagogical’ structure that NEP 2020 has
+                    come out with for School Education.
+                    The Foundational Stage envisions an integrated approach to Early Childhood Care and Education; for
+                    children
+                    between ages 3-8. The transformative nature of this phase of education is expected to qualitatively
+                    improve
+                    the contents and outcomes of education, thereby, impacting the
+                    lives of our children towards a better future.
+                </mat-card-subtitle>
+            </mat-card-header>
+        </mat-card>
+
+        <div class="button-container d-flex mt-4 p-2">
+            <button routerLink="/explore">
+                Explore
+                <span class="first"></span>
+                <span class="second"></span>
+                <span class="third"></span>
+                <span class="fourth"></span>
+            </button>
+
+            <button (click)="gotoBot()">
+                Ask Tara
+                <span class="first"></span>
+                <span class="second"></span>
+                <span class="third"></span>
+                <span class="fourth"></span>
+            </button>
+        </div>
+        <app-eye></app-eye>
+    </div>
+
+</div>
