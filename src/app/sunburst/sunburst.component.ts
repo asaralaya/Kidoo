@@ -25,9 +25,18 @@ export class SunburstComponent implements OnInit {
     console.log(mainData);
     Sunburst()
       .data(mainData)
+      .label('name')
       .size('size')
       .height(800)
+      .excludeRoot(true)
+      .showTooltip(() => true)
       .showLabels(true)
+      .handleNonFittingLabel((label, availablePx) => {
+        const numFitChars = Math.round(availablePx / 7); // ~7px per char
+        return numFitChars < 5
+          ? null
+          : `${label.slice(0, Math.round(numFitChars) - 3)}...`;
+      })
       .tooltipContent((d, node) => `Size: <i>${node.value}</i>`)
       .color((d) => color(d.name))(this.sbChartEl.nativeElement);
     this.loading = false;
