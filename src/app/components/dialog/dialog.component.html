@@ -1,13 +1,13 @@
 <div mat-dialog-content>
-  <p>{{data}}</p>
+  <p>{{data.objective}}</p>
 </div>
 <div mat-dialog-actions>
   <div class="row">
-    <div class="col d-flex justify-content-center">
-      <button mat-raised-button color="primary" (click)="topage(1)">Take me</button>
+    <div class="col d-flex justify-content-center ">
+      <button class="primary"mat-raised-button color="primary" (click)="navigate(data.url);onNoClick()">Take me</button>
     </div>
     <div class="col d-flex justify-content-center">
-      <button mat-raised-button color="warn" (click)="onNoClick()">No</button>
+      <button class="secondary" mat-raised-button color="warn" (click)="onNoClick()">No</button>
     </div>
   </div>
 </div>

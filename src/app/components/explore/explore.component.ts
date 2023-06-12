@@ -10,48 +10,119 @@ import { MatDialog, MatDialogRef, MAT_DIALOG_DATA } from '@angular/material/dial
 export class ExploreComponent implements OnInit {
 
   theme = '';
-  category = ''
+  language = ''
+
+  source = [{
+    id: 1,
+    title: "Donkey and the Elephant",
+    type: "Puppet",
+    about: "Animals",
+    url: "https://diksha.gov.in/play/collection/do_313721386759561216111783?contentType=Collection",
+    language: "efln_eng",
+    theme: 'efln_animals',
+    objective: "This will help your child so that she:“Innovates and works imaginatively to express ideas and emotions through the arts”",
+  },
+  {
+    id: 2,
+    title: "चींटी और गेंडा",
+    type: "Poem",
+    about: "Animals",
+    url: "https://diksha.gov.in/play/collection/do_31372003855044608016192?contentType=Collection",
+    language: "efln_hin",
+    theme: 'efln_animals',
+    objective: "This will help your child so that she:“Reads short poems and begins to appreciate the poem for its choice of words and imagination”"
+  },
+  {
+    id: 3,
+    title: "Lion Flashcard",
+    type: "Flashcard",
+    about: "Animals",
+    url: "https://diksha.gov.in/play/content/do_31371716589478707217308?contentType=Resource",
+    language: "efln_eng",
+    theme: 'efln_animals',
+    objective: "This will help your child so that she:-Shows curiosity in observing plants and animals-Recognizes as sight words of their names and through labels of objects in their environment"
+  },
+  {
+
+    id: 4,
+    title: "Food Series",
+    type: "Video",
+    about: "Food",
+    url: "https://diksha.gov.in/play/collection/do_313721386759561216111783?contentType=Collection",
+    language: "efln_kan",
+    theme: 'efln_food',
+    objective: "This will help your child so that she:“Innovates"
+
+  },
+  {
+
+    id: 5,
+    title: "Food series -2",
+    type: "Video",
+    about: "Food",
+    url: "https://diksha.gov.in/play/collection/do_313721386759561216111783?contentType=Collection",
+    language: "efln_kan",
+    theme: 'efln_food',
+    objective: "This will help your child so that she:“works imaginatively to express ideas and emotions through the arts”"
+
+  },
+  {
+    id: 6,
+    title: "Family Man",
+    type: "Video",
+    about: "Family",
+    url: "https://diksha.gov.in/play/collection/do_313721386759561216111783?contentType=Collection",
+    language: "efln_hin",
+    theme: 'efln_family',
+    objective: "This will help your child so that she:“ express ideas and emotions through the arts”"
+
+  },
+  {
+    id: 7,
+    title: "Protect Environment",
+    type: "Interactive",
+    about: "Environment",
+    url: "https://diksha.gov.in/play/collection/do_313721386759561216111783?contentType=Collection",
+    language: "efln_kan",
+    theme: 'efln_env',
+    objective: "This will help your child so that she:“Innovates and works"
+
+  }
+  ]
+  data = this.source
   constructor(public contentService: ContentService, public dialog: MatDialog) { }
 
   ngOnInit(): void {
   }
 
-  themeChange(data: any) {
-    this.contentService.searchContent().subscribe(
-      (res) => {
-        console.log(res.result.content);
-      }, (err) => console.error(err)
-
-    );
+  themeChange() {
+    this.data = this.source.filter((item) => {
+      return this.language ? (item.theme === this.theme && item.language === this.language) : item.theme === this.theme;
+    })
   }
 
-  categoryChange(data: any) {
-    console.log(data)
+  languageChange() {
+    this.data = this.source.filter((item) => {
+      return this.theme ? (item.language === this.language && item.theme === this.theme) : item.language === this.language;
+    })
+  }
+
+  clicked() {
+    this.language = '';
+    this.theme = ''
+    this.data = this.source
   }
 
   openDialog(val: any): void {
-    let data: any = ''
+    console.log(val)
+    console.log(this.source[val - 1])
+    let data = this.source[val - 1]
 
-    switch (val) {
-      case 1:
-        data = "This will help your child so that she:“Innovates and works imaginatively to express ideas and emotions through the arts”"
-        val = val
-        break;
-
-      case 2:
-        data = "This will help your child so that she:“Reads short poems and begins to appreciate the poem for its choice of words and imagination”"
-        val = val
-        break;
-
-      case 3:
-        data = "This will help your child so that she:-Shows curiosity in observing plants and animals-Recognizes as sight words of their names and through labels of objects in their environment"
-        val = val
-        break;
-    }
 
     const dialogRef = this.dialog.open(DialogOverviewExampleDialog, {
       width: '300px',
-      data: data
+      data: data,
+
 
     });
 
@@ -65,6 +136,8 @@ export class ExploreComponent implements OnInit {
 @Component({
   selector: 'dialog-overview-example-dialog',
   templateUrl: '../dialog/dialog.component.html',
+  styleUrls: ['../dialog/dialog.component.scss']
+
 })
 export class DialogOverviewExampleDialog {
   constructor(
@@ -77,20 +150,7 @@ export class DialogOverviewExampleDialog {
     this.dialogRef.close();
   }
 
-  topage(page: any) {
-
-    switch (page) {
-      case 1:
-        window.open("https://diksha.gov.in/play/collection/do_313721386759561216111783?contentType=Collection");
-        break;
-
-      case 2:
-        window.open("https://diksha.gov.in/play/collection/do_31372003855044608016192?contentType=Collection");
-        break;
-
-      case 3:
-        window.open("https://diksha.gov.in/play/content/do_31371716589478707217308?contentType=Resource");
-        break;
-    }
+  navigate(url: any) {
+    window.open(url)
   }
 }

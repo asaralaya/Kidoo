@@ -13,7 +13,7 @@
         <div class="col d-flex justify-content-center">
           <mat-form-field>
             <mat-label>Select a theme</mat-label>
-            <mat-select (selectionChange)="themeChange($event.value)" [(value)]="theme">
+            <mat-select (selectionChange)="themeChange()" [(value)]="theme">
               <mat-option value="efln_animals">Animals</mat-option>
               <mat-option value="efln_plants"> Plants and Flowers</mat-option>
               <mat-option value="efln_food">Food</mat-option>
@@ -25,47 +25,30 @@
 
         <div class="col d-flex justify-content-center">
           <mat-form-field>
-            <mat-label>Select a Category</mat-label>
-            <mat-select (selectionChange)="categoryChange($event.value)" [(value)]="category">
-              <mat-option value="efln_toys">Toys and Puzzles</mat-option>
-              <mat-option value="efln_stories">Stories and Poems</mat-option>
-              <mat-option value="efln_playbooks">Playbooks and Activitiess</mat-option>
-              <mat-option value="efln_flashcards">Flashcards</mat-option>
+            <mat-label>Select a Language</mat-label>
+            <mat-select (selectionChange)="languageChange()" [(value)]="language">
+              <mat-option value="efln_kan">Kannada</mat-option>
+              <mat-option value="efln_eng">English</mat-option>
+              <mat-option value="efln_hin">Hindi</mat-option>
             </mat-select>
           </mat-form-field>
+        </div>
+
+        <div class="col btn">
+          <button (click)="clicked()">Clear</button>
+          
         </div>
       </div>
     </mat-card>
 
-  <mat-card class="example-card mb-3" >
+  <mat-card *ngFor="let content of data;let i=index"class="example-card mb-3" >
     <mat-card-header>
       <div mat-card-avatar class="example-header-image"></div>
-      <mat-card-title (click)="openDialog(1)">Donkey and the Elephant </mat-card-title>
-      <mat-card-subtitle>Puppet | About: Animals
-      </mat-card-subtitle>
-    </mat-card-header>
-
-  </mat-card>
-
-  <mat-card class="example-card mb-3">
-    <mat-card-header>
-      <div mat-card-avatar class="example-header-image"></div>
-      <mat-card-title (click)="openDialog(2)">चींटी और गेंडा </mat-card-title>
-      <mat-card-subtitle>Poem | About: Animals
+      <mat-card-title (click)="openDialog(content.id)">{{content.title}} </mat-card-title>
+      <mat-card-subtitle>{{content.type}} | About: {{content.about}}
       </mat-card-subtitle>
     </mat-card-header>
   </mat-card>
-
-  <mat-card class="example-card mb-3">
-    <mat-card-header>
-      <div mat-card-avatar class="example-header-image"></div>
-      <mat-card-title (click)="openDialog(3)">Lion Flashcard</mat-card-title>
-      <mat-card-subtitle>Flashcard | About: Animals
-      </mat-card-subtitle>
-    </mat-card-header>
-  </mat-card>
-
-
 </div>
 
 
