@@ -1,8 +1,8 @@
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
-import { HomepageComponent } from './homepage/homepage.component';
-import { ExploreComponent } from './explore/explore.component';
-import { SunburstComponent } from './sunburst/sunburst.component';
+import { HomepageComponent } from './components/homepage/homepage.component';
+import { ExploreComponent } from './components/explore/explore.component';
+import { SunburstComponent } from './components/sunburst/sunburst.component';
 const routes: Routes = [
   { path: '', redirectTo: 'home', pathMatch: 'full' },
   {
@@ -13,7 +13,7 @@ const routes: Routes = [
   },
   {
     path: 'dashboard', component: SunburstComponent
-  }
+  },
 ];
 
 @NgModule({

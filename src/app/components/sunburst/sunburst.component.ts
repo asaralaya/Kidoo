@@ -21,10 +21,11 @@ export class SunburstComponent implements OnInit {
 
   getData() {
     const color = d3.scaleOrdinal(d3.schemePaired);
+   // console.log('')
     const mainData = data;
     console.log(mainData);
     Sunburst()
-      .data(mainData)
+      .data(data)
       .label('name')
       .size('size')
       .height(800)
@@ -38,7 +39,7 @@ export class SunburstComponent implements OnInit {
           : `${label.slice(0, Math.round(numFitChars) - 3)}...`;
       })
       .tooltipContent((d, node) => `Size: <i>${node.value}</i>`)
-      .color((d) => color(d.name))(this.sbChartEl.nativeElement);
+      .color((d) => d['color'])(this.sbChartEl.nativeElement);
     this.loading = false;
   }
 }
