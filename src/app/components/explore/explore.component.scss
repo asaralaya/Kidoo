@@ -47,11 +47,19 @@
   justify-content: start;
   border-end-start-radius: 5rem;
   border-start-end-radius: 5rem;
-  background: #0ec0f1 !important;
-  box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 7px 14px 3px 0px !important;
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,101,121,1) 0%, rgb(12, 142, 171) 70%, rgba(255,255,255,1) 100%);  box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 7px 14px 3px 0px !important;
 cursor: pointer;
+color: white;
 }
 
+.head{
+  background: transparent;
+  width: 70%;
+  margin: 0 auto;
+}
+mat-card-subtitle{
+  color: white;
+}
 
 button{
   padding: 0 6px 0 6px;

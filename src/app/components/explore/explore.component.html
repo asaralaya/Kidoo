@@ -41,10 +41,10 @@
     </div>
   </mat-card>
 
-  <mat-card *ngFor="let content of data;let i=index" class="example-card mb-3">
-    <mat-card-header (click)="openDialog(content.id)">
+  <mat-card *ngFor="let content of data;let i=index" class="head mb-3">
+    <mat-card-header  (click)="openDialog(content.id)">
       <div mat-card-avatar class="example-header-image"></div>
-      <mat-card-title >{{content.title}} </mat-card-title>
+      <mat-card-title class="subtitle">{{content.title}} </mat-card-title>
       <mat-card-subtitle>  About: {{content.about}} | in {{content.lan}}
       </mat-card-subtitle>
     </mat-card-header>
