@@ -17,7 +17,7 @@ export class ExploreComponent implements OnInit {
     title: "Donkey and the Elephant",
     type: "Puppet",
     about: "Animals",
-    lan:"English",
+    lan: "English",
     url: "https://diksha.gov.in/play/collection/do_313721386759561216111783?contentType=Collection",
     language: "efln_eng",
     theme: 'efln_animals',
@@ -28,7 +28,7 @@ export class ExploreComponent implements OnInit {
     title: "चींटी और गेंडा",
     type: "Poem",
     about: "Animals",
-    lan:"Hindi",
+    lan: "Hindi",
     url: "https://diksha.gov.in/play/collection/do_31372003855044608016192?contentType=Collection",
     language: "efln_hin",
     theme: 'efln_animals',
@@ -39,7 +39,7 @@ export class ExploreComponent implements OnInit {
     title: "Lion Flashcard",
     type: "Flashcard",
     about: "Animals",
-    lan:"English",
+    lan: "English",
     url: "https://diksha.gov.in/play/content/do_31371716589478707217308?contentType=Resource",
     language: "efln_eng",
     theme: 'efln_animals',
@@ -51,7 +51,7 @@ export class ExploreComponent implements OnInit {
     title: "Food Series",
     type: "Video",
     about: "Food",
-    lan:"Kannada",
+    lan: "Kannada",
     url: "https://diksha.gov.in/play/collection/do_313721386759561216111783?contentType=Collection",
     language: "efln_kan",
     theme: 'efln_food',
@@ -64,7 +64,7 @@ export class ExploreComponent implements OnInit {
     title: "Food series -2",
     type: "Video",
     about: "Food",
-    lan:"Kannada",
+    lan: "Kannada",
     url: "https://diksha.gov.in/play/collection/do_313721386759561216111783?contentType=Collection",
     language: "efln_kan",
     theme: 'efln_food',
@@ -76,7 +76,7 @@ export class ExploreComponent implements OnInit {
     title: "Family Man",
     type: "Video",
     about: "Family",
-    lan:"Hindi",
+    lan: "Hindi",
     url: "https://diksha.gov.in/play/collection/do_313721386759561216111783?contentType=Collection",
     language: "efln_hin",
     theme: 'efln_family',
@@ -88,7 +88,7 @@ export class ExploreComponent implements OnInit {
     title: "Protect Environment",
     type: "Interactive",
     about: "Environment",
-    lan:"Kannada",
+    lan: "Kannada",
     url: "https://diksha.gov.in/play/collection/do_313721386759561216111783?contentType=Collection",
     language: "efln_kan",
     theme: 'efln_env',
@@ -100,7 +100,7 @@ export class ExploreComponent implements OnInit {
     title: "Know a plant",
     type: "Video",
     about: "plants",
-    lan:"Kannada",
+    lan: "Kannada",
     url: "https://diksha.gov.in/play/collection/do_313721386759561216111783?contentType=Collection",
     language: "efln_kan",
     theme: 'efln_plants',
@@ -133,21 +133,14 @@ export class ExploreComponent implements OnInit {
   }
 
   openDialog(val: any): void {
-    console.log(val)
-    console.log(this.source[val - 1])
     let data = this.source[val - 1]
-
 
     const dialogRef = this.dialog.open(DialogOverviewExampleDialog, {
       width: '300px',
       data: data,
-
-
     });
 
     dialogRef.afterClosed().subscribe(result => {
-      console.log('The dialog was closed');
-
     });
   }
 }
