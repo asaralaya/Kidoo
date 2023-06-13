@@ -4,19 +4,19 @@
     "children": [
         {
             "name": "Physical Development",
-            "color":"rgb(138 211 138)",
+            "color":"rgb(184 240 184)",
             "children": [
                 {
                     "name": "CG-1: Children develop habits that keep them healthy and safe",
-                    "color":"rgb(138 211 138)",
+                    "color":"rgb(184 240 184)",
                     "children": [
                         {
                             "name": "C-1.1: Shows a liking for and understanding of nutritious food and does not waste food",
-                            "color":"rgb(138 211 138)",
+                            "color":"rgb(184 240 184)",
                             "children": [
                                 {
                                     "name": "Identifies things that can be eaten and cannot be eaten",
-                                    "color":"rgb(138 211 138)",
+                                    "color":"rgb(184 240 184)",
                                     "size": 123
                                 },
                                 {
@@ -306,11 +306,11 @@
                         },
                         {
                             "name": "C-1.5: Shows awareness of safety in movements (walking, running, cycling) and acts appropriately",
-                            "color":"rgb(138 211 138)",
+                            "color":"rgb(184 240 184)",
                             "children": [
                                 {
                                     "name": "Identifies road safety as important, holds hands of adults and walks on the road",
-                                    "color":"rgb(138 211 138)",
+                                    "color":"rgb(184 240 184)",
                                     "size": 123
                                 },
                                 {
@@ -1642,7 +1642,7 @@
         },
         {
             "name": "Language and Literacy Development",
-            "color":"rgb(184 240 184)",
+            "color":"rgb(138 211 138)",
             "children": [
                 {
                     "name": "CG-10: Children develop fluency in reading and writing in Language 1",
@@ -1934,11 +1934,11 @@
                 },
                 {
                     "name": "CG-9: Children develop effective communication skills for day-to-day interactions in two languages",
-                    "color":"rgb(184 240 184)",
+                    "color":"rgb(138 211 138)",
                     "children": [
                         {
                             "name": "C-9.1: Listens to and appreciates simple songs, rhymes, and poems",
-                            "color":"rgb(184 240 184)",
+                            "color":"rgb(138 211 138)",
                             "children": [
                                 {
                                     "name": "Age 3-4 Listens to a wide variety of songs and poems Repeats a simple song or a rhyme",
@@ -1952,7 +1952,7 @@
                                 },
                                 {
                                     "name": "Age 5-6 Listens to longer songs/poems (familiar) with attention and has conversations about them Sings/recites short (4-5 sentences) songs/poems from memory",
-                                    "color":"rgb(184 240 184)",
+                                    "color":"rgb(138 211 138)",
                                     "size": 123
                                 },
                                 {

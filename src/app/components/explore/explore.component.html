@@ -1,54 +1,52 @@
 <mat-toolbar color="primary">
-  <span>Explore</span>
+  <span>Find a Story!</span>
   <div class="spacer"></div>
   <a mat-button routerLink="/home">Home</a>
-  <a mat-button routerLink="/dashboard">Dashboard</a>
+  <a mat-button routerLink="/dashboard">Learning Map</a>
 </mat-toolbar>
 <div class="container">
-    <mat-card class="card-data my-4">
-      <mat-card-header>
-        <mat-card-title>Select Your Content </mat-card-title>
-      </mat-card-header>
-      <div class="row mt-3">
-        <div class="col d-flex justify-content-center">
-          <mat-form-field>
-            <mat-label>Select a theme</mat-label>
-            <mat-select (selectionChange)="themeChange()" [(value)]="theme">
-              <mat-option value="efln_animals">Animals</mat-option>
-              <mat-option value="efln_plants"> Plants and Flowers</mat-option>
-              <mat-option value="efln_food">Food</mat-option>
-              <mat-option value="efln_env">Environment</mat-option>
-              <mat-option value="efln_family">Family</mat-option>
-            </mat-select>
-          </mat-form-field>
-        </div>
-
-        <div class="col d-flex justify-content-center">
-          <mat-form-field>
-            <mat-label>Select a Language</mat-label>
-            <mat-select (selectionChange)="languageChange()" [(value)]="language">
-              <mat-option value="efln_kan">Kannada</mat-option>
-              <mat-option value="efln_eng">English</mat-option>
-              <mat-option value="efln_hin">Hindi</mat-option>
-            </mat-select>
-          </mat-form-field>
-        </div>
-
-        <div class="col btn">
-          <button (click)="clicked()">Clear</button>
-          
-        </div>
+  <mat-card class="card-data my-4">
+    <mat-card-header>
+      <mat-card-title>Select Your Story </mat-card-title>
+    </mat-card-header>
+    <div class="row mt-3">
+      <div class="col d-flex justify-content-center">
+        <mat-form-field>
+          <mat-label>Select a theme</mat-label>
+          <mat-select (selectionChange)="themeChange()" [(value)]="theme">
+            <mat-option value="efln_animals">Animals</mat-option>
+            <mat-option value="efln_plants"> Plants and Flowers</mat-option>
+            <mat-option value="efln_food">Food</mat-option>
+            <mat-option value="efln_env">Environment</mat-option>
+            <mat-option value="efln_family">Family</mat-option>
+          </mat-select>
+        </mat-form-field>
       </div>
-    </mat-card>
 
-  <mat-card *ngFor="let content of data;let i=index"class="example-card mb-3" >
+      <div class="col d-flex justify-content-center">
+        <mat-form-field>
+          <mat-label>Select a Language</mat-label>
+          <mat-select (selectionChange)="languageChange()" [(value)]="language">
+            <mat-option value="efln_kan">Kannada</mat-option>
+            <mat-option value="efln_eng">English</mat-option>
+            <mat-option value="efln_hin">Hindi</mat-option>
+          </mat-select>
+        </mat-form-field>
+      </div>
+
+      <div class="col btn">
+        <button (click)="clicked()">Clear</button>
+
+      </div>
+    </div>
+  </mat-card>
+
+  <mat-card *ngFor="let content of data;let i=index" class="example-card mb-3">
     <mat-card-header>
       <div mat-card-avatar class="example-header-image"></div>
       <mat-card-title (click)="openDialog(content.id)">{{content.title}} </mat-card-title>
-      <mat-card-subtitle>{{content.type}} | About: {{content.about}}
+      <mat-card-subtitle>  About: {{content.about}} | in {{content.lan}}
       </mat-card-subtitle>
     </mat-card-header>
   </mat-card>
 </div>
-
-

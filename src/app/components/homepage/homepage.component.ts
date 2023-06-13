@@ -9,7 +9,7 @@ export class HomepageComponent {
 
   constructor() { }
   gotoBot() {
-    window.open("https://ncfchat.sunbird.org/ncf/#/ncf/dashboard");
+    window.open("https://web.telegram.org/a/#6285041280");
   }
 }
 
