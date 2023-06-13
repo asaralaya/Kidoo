@@ -1,4 +1,4 @@
-<div class="animation-container">
+<!-- <div class="animation-container">
     <div class="lightning-container">
         <div class="lightning white"></div>
         <div class="lightning red"></div>
@@ -16,7 +16,7 @@
         <div class="shape disc white"></div>
         <div class="shape triangle blue"></div>
     </div>
-</div>
+</div> -->
 
 
 <div *ngIf="true">
@@ -50,7 +50,7 @@
             </div>
         </div>
     </div>
-
+    
     <div class="container" style="margin-top:1rem;">
         <div class="container text-center">
             <div class="row align-items-start">
@@ -65,10 +65,10 @@
                 </div>
             </div>
         </div>
-
         <div class="button-container d-flex mt-4 p-2">
             <button routerLink="/explore">
-                Find a Story
+                <i class="fa fa-spinner fa-pulse"></i> 
+                               Find a Story
                 <span class="first"></span>
                 <span class="second"></span>
                 <span class="third"></span>
@@ -76,6 +76,7 @@
             </button>
 
             <button (click)="gotoBot()">
+                <i class="fa fa-commenting"></i>
                 Tell me a Story
                 <span class="first"></span>
                 <span class="second"></span>
