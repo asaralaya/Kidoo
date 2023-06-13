@@ -55,32 +55,6 @@
     justify-content: space-between;
 }
 
-.card-title {
-    font-family: monospace;
-    width: 40%;
-    text-align: center;
-    // background-color: #161616;
-    // color: white;
-    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px !important;
-    ;
-    border: 5px solid white;
-    transition: 0.5s;
-    opacity: 0.8;
-
-}
-
-.card-title:hover {
-    width: 40%;
-    text-align: center;
-    background-color: #161616;
-    color: yellow;
-    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px !important;
-    ;
-    border: 5px solid yellow;
-
-
-}
-
 $color-black: #161616;
 $color-white: #fff;
 $size: 170px; // (Fully responsive)
@@ -899,7 +873,7 @@ body {
 
   /* multi color */
   .page-title {
-    margin-top:1rem;
+    margin-top:0rem;
     padding:1.5rem;
     background:#f2f2f2;
     text-align: center;
