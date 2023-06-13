@@ -901,11 +901,15 @@ body {
 
   /* multi color */
   .page-title {
-    margin-top:2rem;
-    padding:3rem;
+    margin-top:1rem;
+    padding:1.5rem;
     background:#f2f2f2;
     text-align: center;
     border-radius: 1rem;
+    border-bottom-left-radius: 5rem;
+    border-bottom-right-radius: 5rem;
+    /* background: transparent; */
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px !important;
     h2  {
       margin-bottom:1rem;
       font-size: 48px;
