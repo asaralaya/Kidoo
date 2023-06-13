@@ -1180,11 +1180,11 @@
         },
         {
             "name": "Cognitive Development",
-            "color":"rgb(184 240 184)",
+            "color":"rgb(138 211 138)",
             "children": [
                 {
                     "name": "CG-7: Children make sense of world around through observation and logical thinking",
-                    "color":"rgb(184 240 184)",
+                    "color":"rgb(138 211 138)",
                     "children": [
                         {
                             "name": "C-7.1: Observes and understands different categories of objects and relationships between them",
@@ -1214,11 +1214,11 @@
                         },
                         {
                             "name": "C-7.2: Observes and understands cause and effect relationships in nature by forming simple hypothesis and uses observations to explain their hypothesis",
-                            "color":"rgb(184 240 184)",
+                            "color":"rgb(138 211 138)",
                             "children": [
                                 {
                                     "name": "Age 3-4 Uses ideas based on observations (e.g., imitates adults blowing on hot food before eating) Differentiates between day and night Identifies pleasing elements, flora and fauna in the immediate environment (e.g., flowers, trees, clouds, animals, birds, sunlight, stars) Explains the impact of one’s actions/ behaviour on others (e.g., hitting a dog with a stone hurts a helpless creature, not turning off a tap wastes water)",
-                                    "color":"rgb(184 240 184)",
+                                    "color":"rgb(138 211 138)",
                                     "size": 123
                                 },
                                 {

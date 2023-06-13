@@ -85,7 +85,18 @@ export class ExploreComponent implements OnInit {
     url: "https://diksha.gov.in/play/collection/do_313721386759561216111783?contentType=Collection",
     language: "efln_kan",
     theme: 'efln_env',
-    objective: "This will help your child so that she:“Innovates and works"
+    objective: "This will help your child so that she:“Innovates and works“"
+
+  },
+  {
+    id: 8,
+    title: "Know a plant",
+    type: "Video",
+    about: "plants",
+    url: "https://diksha.gov.in/play/collection/do_313721386759561216111783?contentType=Collection",
+    language: "efln_kan",
+    theme: 'efln_plants',
+    objective: "This will help your child so that she:“knows about plants“"
 
   }
   ]
