@@ -10,104 +10,119 @@ import { MatDialog, MatDialogRef, MAT_DIALOG_DATA } from '@angular/material/dial
 export class ExploreComponent implements OnInit {
 
   theme = '';
-  language = ''
+  language = '';
+  type = '';
 
   source = [{
     id: 1,
-    title: "Donkey and the Elephant",
-    type: "Puppet",
-    about: "Animals",
-    lan: "English",
-    url: "https://diksha.gov.in/play/collection/do_313721386759561216111783?contentType=Collection",
-    language: "efln_eng",
-    theme: 'efln_animals',
-    objective: "This will help your child so that she:“Innovates and works imaginatively to express ideas and emotions through the arts”",
+    title: "কুকুৰা পোৱালিৰ ভয় (The chicks fear)",
+    type: "Video",
+    about: "Birds",
+    icon:"../../../assets/icons/The chicks fear.png",
+    lan: "Assamese",
+    url: "https://www.prathamyouthnet.org/story/packs/video.php?nodeid=d91d18a1-d30f-47c9-829b-90bfdee14a79&parentnode=e5672698-aa2c-4eb7-a149-54b82ab247b7",
+    language: "efln_as",
+    theme: 'efln_brd',
+    typec: 'efln_vid',
+    objective: "Develops Observation, wonder, curiosity, and exploration"
   },
   {
     id: 2,
-    title: "चींटी और गेंडा",
-    type: "Poem",
+    title: "Jackal and the Drum",
+    icon:"../../../assets/icons/jackal-drum.png",
+    type: "Read Along",
     about: "Animals",
-    lan: "Hindi",
-    url: "https://diksha.gov.in/play/collection/do_31372003855044608016192?contentType=Collection",
-    language: "efln_hin",
-    theme: 'efln_animals',
-    objective: "This will help your child so that she:“Reads short poems and begins to appreciate the poem for its choice of words and imagination”"
+    lan: "English",
+    url: "https://diksha.gov.in/play/content/do_31381695158648012811422",
+    language: "efln_en",
+    theme: 'efln_anm',
+    typec: 'efln_rda',
+
+    objective: "Differentiates sounds by their pitch, volume and sound patterns"
   },
   {
     id: 3,
-    title: "Lion Flashcard",
-    type: "Flashcard",
-    about: "Animals",
-    lan: "English",
-    url: "https://diksha.gov.in/play/content/do_31371716589478707217308?contentType=Resource",
-    language: "efln_eng",
-    theme: 'efln_animals',
-    objective: "This will help your child so that she:-Shows curiosity in observing plants and animals-Recognizes as sight words of their names and through labels of objects in their environment"
+    title: "રિયાની લાલ છત્રી (Riya's umbrella)",
+    icon:"../../../assets/icons/Riya_s umbrella.png",
+    type: "Read",
+    about: "Birds",
+    lan: "Gujarati",
+    url: "https://diksha.gov.in/play/content/do_31373422751785779217395",
+    language: "efln_gj",
+    theme: 'efln_brd',
+    typec: 'efln_rd',
+    objective: "Shows care for and joy in engaging with all life forms"
   },
   {
-
     id: 4,
-    title: "Food Series",
-    type: "Video",
-    about: "Food",
-    lan: "Kannada",
-    url: "https://diksha.gov.in/play/collection/do_313721386759561216111783?contentType=Collection",
-    language: "efln_kan",
-    theme: 'efln_food',
-    objective: "This will help your child so that she:“Innovates"
+    title: "कच..कच.. (Kach..Kach..)",
+    type: "Audio",
+    icon:"../../../assets/icons/kachkach.png",
+    about: "Animals",
+    lan: "Hindi",
+    url: "https://www.prathamyouthnet.org/story/listen/listen.php?nodeid=season1_hi_02&parentnode=season1_hindi",
+    language: "efln_hi",
+    theme: 'efln_anm',
+    typec: 'efln_aud',
+    objective: "Comprehends narrated/read-out stories and identifies characters, storyline and what the author wants to say"
 
   },
   {
-
     id: 5,
-    title: "Food series -2",
-    type: "Video",
-    about: "Food",
-    lan: "Kannada",
-    url: "https://diksha.gov.in/play/collection/do_313721386759561216111783?contentType=Collection",
-    language: "efln_kan",
-    theme: 'efln_food',
-    objective: "This will help your child so that she:“works imaginatively to express ideas and emotions through the arts”"
+    title: "आंब्याचं झाड (Mango Tree)",
+    type: "Read Along",
+    icon:"../../../assets/icons/MangoTree.png",
+    about: "Nature",
+    lan: "Marathi",
+    url: "https://prathamopenschool.org/CourseContent/Games/Ambyanch_Zad_MR/index.html",
+    language: "efln_mar",
+    theme: 'efln_ntr',
+    typec: 'efln_rda',
+    objective: "Shows kindness and helpfulness to others (including animals, plants) when they are in need"
 
   },
   {
     id: 6,
-    title: "Family Man",
-    type: "Video",
-    about: "Family",
-    lan: "Hindi",
-    url: "https://diksha.gov.in/play/collection/do_313721386759561216111783?contentType=Collection",
-    language: "efln_hin",
-    theme: 'efln_family',
-    objective: "This will help your child so that she:“ express ideas and emotions through the arts”"
+    title: "கதை 17 - Aaloo-Maaloo-Kaaloo",
+    type: "Read Along",
+    icon:"../../../assets/icons/aloomaloo.png",
+    about: "Vegetables",
+    lan: "Tamil",
+    url: "https://diksha.gov.in/play/content/do_31304881219099033611457",
+    language: "efln_ta",
+    theme: 'efln_veg',
+    typec: 'efln_rda',
+    objective: "Demonstrates willingness and participation in age-appropriate physical work towards helping others"
 
   },
   {
     id: 7,
-    title: "Protect Environment",
-    type: "Interactive",
-    about: "Environment",
-    lan: "Kannada",
-    url: "https://diksha.gov.in/play/collection/do_313721386759561216111783?contentType=Collection",
-    language: "efln_kan",
-    theme: 'efln_env',
-    objective: "This will help your child so that she:“Innovates and works“"
-
+    title: "என் நண்பர்கள் (My Friends)",
+    type: "Read",
+    icon:"../../../assets/icons/My Friends.jpg",
+    about: "Relations",
+    lan: "Tamil",
+    url: "https://storyweaver.org.in/stories/378-en-nanbargal",
+    language: "efln_ta",
+    theme: 'efln_rel',
+    typec: 'efln_rd',
+    objective: "Interacts comfortably with other children and adults"
   },
   {
     id: 8,
-    title: "Know a plant",
-    type: "Video",
-    about: "plants",
-    lan: "Kannada",
-    url: "https://diksha.gov.in/play/collection/do_313721386759561216111783?contentType=Collection",
-    language: "efln_kan",
-    theme: 'efln_plants',
-    objective: "This will help your child so that she:“knows about plants“"
-
+    title: "कौआ और स्ट्रॉ",
+    type: "Sign Language",
+    icon:"../../../assets/icons/CrowStraw.png",
+    about: "Birds",
+    lan: "Hindi",
+    url: "https://diksha.gov.in/play/content/do_313735563301134336127",
+    language: "efln_hi",
+    theme: 'efln_brd',
+    typec: 'efln_sgn',
+    objective: "Observes and understands different categories of objects and relationships between them"
   }
   ]
+
   data = this.source
   constructor(public contentService: ContentService, public dialog: MatDialog) { }
 
@@ -116,19 +131,26 @@ export class ExploreComponent implements OnInit {
 
   themeChange() {
     this.data = this.source.filter((item) => {
-      return this.language ? (item.theme === this.theme && item.language === this.language) : item.theme === this.theme;
+      return (this.language && this.type) ? (item.theme === this.theme && item.language === this.language && item.typec === this.type) : (this.language && !this.type) ? (item.language === this.language && item.theme === this.theme) : (!this.language && this.type) ? (item.typec === this.type && item.theme === this.theme) : item.theme === this.theme;
     })
   }
 
   languageChange() {
     this.data = this.source.filter((item) => {
-      return this.theme ? (item.language === this.language && item.theme === this.theme) : item.language === this.language;
+      return (this.theme && this.type) ? (item.theme === this.theme && item.language === this.language && item.typec === this.type) : (this.type && !this.theme) ? (item.typec === this.type && item.language === this.language) : (!this.type && this.theme) ? (item.theme === this.theme && item.language === this.language) : item.language === this.language;
+    })
+  }
+
+  typeChange() {
+    this.data = this.source.filter((item) => {
+      return (this.theme && this.language) ? (item.theme === this.theme && item.language === this.language && item.typec === this.type) : (this.language && !this.theme) ? (item.language === this.language && item.typec === this.type) : (!this.language && this.theme) ? (item.theme === this.theme && item.typec === this.type) : item.typec === this.type;
     })
   }
 
   clicked() {
     this.language = '';
     this.theme = ''
+    this.type = ''
     this.data = this.source
   }
 

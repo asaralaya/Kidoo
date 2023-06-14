@@ -1,5 +1,4 @@
 .mat-toolbar {
-
   color: white;
   position: sticky;
   top: 0;
@@ -12,30 +11,32 @@
 
 .mat-card>:first-child {
   border-bottom-style: inset;
-
 }
 
 .mat-card {
   box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px !important;
 
 }
-
+img{
+  border-bottom-left-radius: 25px !important;
+    border-bottom-right-radius: 25px !important;
+}
 .example-header-image {
-  background-image: url('../../../assets/Image.jpg');
   background-size: 100%;
   margin-left: 3%;
+  width: 4rem;
+  height: 4rem;
 }
 
 .mat-card-image {
   width: 16rem;
-  /* margin: 0 -16px 16px -16px; */
+  margin: 0 -16px 16px -16px;
   display: block;
   overflow: hidden;
 }
 
 .mat-card-image:first-child {
   margin-top: 0px;
-
 }
 
 .mat-button {
@@ -62,7 +63,7 @@
   margin: 0 auto;
 }
 
-mat-card-subtitle {
+.mat-card-subtitle {
   color: white;
 }
 
@@ -187,3 +188,6 @@ mat-card-subtitle {
   top: 65%;
   transform: scale(1.1);
 }
+
+
+
