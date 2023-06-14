@@ -1,6 +1,6 @@
 {
-  "name": "sunbird-kids",
-  "version": "0.0.0",
+  "name": "kathasagara",
+  "version": "0.0.1",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
