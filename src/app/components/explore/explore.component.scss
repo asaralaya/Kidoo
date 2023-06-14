@@ -38,6 +38,9 @@
   margin-top: 0px;
 
 }
+.mat-button {
+  color: white;
+}
 
 .action {
   background: black;
@@ -47,7 +50,7 @@
   justify-content: start;
   border-end-start-radius: 1rem;
   border-start-end-radius: 4rem;
-  background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(9, 101, 121, 1) 0%, rgb(12, 142, 171) 70%, rgba(255, 255, 255, 1) 100%);
+  background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(9, 101, 121, 1) 0%, rgb(12, 142, 171) 50%, rgba(255, 255, 255, 1) 100%);
   box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 7px 14px 3px 0px !important;
   cursor: pointer;
   color: white;
@@ -69,19 +72,17 @@ mat-card-subtitle {
   justify-content: center;
 }
 
-button {
-
-
+.clear-button {
   padding: 0 6px 0 6px;
   margin: 6px 8px 6px 8px;
   min-width: 88px;
   border-radius: 3px;
-  font-size: 14px;
+  font-size: 16px;
   text-align: center;
   text-transform: uppercase;
   text-decoration: none;
   border: none;
   outline: none;
-  background: skyblue;
-
+  background: #0c7891;
+  color: white;
 }
