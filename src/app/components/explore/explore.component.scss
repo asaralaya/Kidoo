@@ -86,3 +86,104 @@ mat-card-subtitle {
   background: #0c7891;
   color: white;
 }
+
+
+
+
+//Sun Animation
+.sun {
+  position: absolute;
+  width: 4em;
+  height: 4em;
+  border-radius: 50%;
+  top: 6em;
+  right: 2%;
+  background-color: rgba(255, 209, 0, 0.1);
+  transform-origin: center;
+  animation: spin 60s linear infinite;
+}
+.sun .ray {
+  position: absolute;
+  left: -4em;
+  top: 1.75em;
+  background: linear-gradient(90deg, rgba(255, 209, 0, 0) 0%, rgba(255, 209, 0, 0.9) 40%, rgba(255, 209, 0, 0.9) 60%, rgba(255, 209, 0, 0) 100%);
+  width: 12em;
+  height: 0.5em;
+  border-radius: 0.5em;
+}
+.sun .ray:nth-child(even) {
+  background: linear-gradient(90deg, rgba(255, 209, 0, 0) 10%, rgba(255, 209, 0, 0.9) 40%, rgba(255, 209, 0, 0.9) 60%, rgba(255, 209, 0, 0) 90%);
+  height: 0.4em;
+  top: 1.8em;
+}
+.sun .ray:nth-child(2) {
+  transform: rotate(18deg);
+}
+.sun .ray:nth-child(3) {
+  transform: rotate(36deg);
+}
+.sun .ray:nth-child(4) {
+  transform: rotate(54deg);
+}
+.sun .ray:nth-child(5) {
+  transform: rotate(72deg);
+}
+.sun .ray:nth-child(6) {
+  transform: rotate(90deg);
+}
+.sun .ray:nth-child(7) {
+  transform: rotate(108deg);
+}
+.sun .ray:nth-child(8) {
+  transform: rotate(126deg);
+}
+.sun .ray:nth-child(9) {
+  transform: rotate(144deg);
+}
+.sun .ray:nth-child(10) {
+  transform: rotate(162deg);
+}
+
+@keyframes spin {
+  100% { transform: rotate(360deg); }
+}
+
+.cloud {
+  position: absolute;
+  z-index: 1;
+  top: 30%;
+  left: 40%;
+  width: 4em;
+  height: 4em;
+  margin: -2em;
+  color: #bfbfbf;
+  background: currentColor;
+  border-radius: 50%;
+  box-shadow: -2.4em 0.6em 0 -0.6em,
+              2.2em 0.95em 0 -0.95em;
+}
+.cloud:before {
+  content: '';
+  position: absolute;
+  display: block;
+  bottom: 0;
+  left: -0.3em;
+  width: 4.4em;
+  height: 1em;
+  background: currentColor;
+}
+.cloud:nth-child(2) {
+  left: 0%;
+  top: 75%;
+  transform: scale(0.9);
+}
+.cloud:nth-child(3) {
+  left: 95%;
+  top: 6%;
+  transform: scale(0.8);
+}
+.cloud:nth-child(4) {
+  left: 75%;
+  top: 65%;
+  transform: scale(1.1);
+}
