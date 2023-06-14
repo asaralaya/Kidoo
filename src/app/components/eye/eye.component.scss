@@ -279,3 +279,13 @@ body {
     color: darkkhaki;
     background: black;
 }
+
+.eye-container {
+
+    background-image: url("../../../assets/bg.svg");
+    background-repeat: no-repeat no-repeat;
+    background-size: contain;
+    background-position: bottom;
+    background-attachment: inherit;
+    bottom: 0;
+}
