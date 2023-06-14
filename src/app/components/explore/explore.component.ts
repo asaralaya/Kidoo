@@ -136,7 +136,7 @@ export class ExploreComponent implements OnInit {
     let data = this.source[val - 1]
 
     const dialogRef = this.dialog.open(DialogOverviewExampleDialog, {
-      width: '300px',
+      width: '500px',
       data: data,
     });
 

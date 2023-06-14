@@ -35,14 +35,14 @@
       </div>
 
       <div class="col btn">
-        <button (click)="clicked()">Clear</button>
+        <button mat-button color="primary"(click)="clicked()">Clear</button>
 
       </div>
     </div>
   </mat-card>
 
   <mat-card *ngFor="let content of data;let i=index" class="head mb-3">
-    <mat-card-header  (click)="openDialog(content.id)">
+    <mat-card-header class="d-flex align-items-center"  (click)="openDialog(content.id)">
       <div mat-card-avatar class="example-header-image"></div>
       <mat-card-title class="subtitle">{{content.title}} </mat-card-title>
       <mat-card-subtitle>  About: {{content.about}} | in {{content.lan}}
