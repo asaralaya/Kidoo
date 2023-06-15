@@ -1,16 +1,14 @@
 {
     "name": "root",
-    "size":123,
+    
     "color": "rgb(184 240 184)",
     "children": [
         {
             "name": "Socio-Emotional and Ethical Development",
-            "size":123,
             "color": "rgb(184 240 184)",
             "children": [
                 {
                     "name": "Children develop emotional intelligence",
-                    "size":123,
                     "color": "rgb(184 240 184)",
                     "children": [
                         {
@@ -52,7 +50,6 @@
                 },
                 {
                     "name": "Children develop a positive attitude towards productive work and service or ‘Seva’",
-                    "size":123,
                     "color": "rgb(184 240 184)",
                     "children": [
                         {
@@ -64,7 +61,6 @@
                 },
                 {
                     "name": "Children develop a positive regard for the natural environment around them",
-                    "size":123,
                     "color": "rgb(184 240 184)",
                     "children": [
                         {
@@ -78,12 +74,10 @@
         },
         {
             "name": "Cognitive Development",
-            "size":123,
             "color": "rgb(138 211 138)",
             "children": [
                 {
                     "name": "Children make sense of world around through observation and logical thinking",
-                    "size":123,
                     "color": "rgb(138 211 138)",
                     "children": [
                         {
@@ -105,7 +99,6 @@
                 },
                 {
                     "name": "Children develop mathematical understanding and abilities to recognize the world through quantities, shapes, and measures",
-                    "size":123,
                     "color": "rgb(184 240 184)",
                     "children": [
                         {
@@ -169,12 +162,11 @@
         },
         {
             "name": "Language and Literacy Development",
-            "size":123,
+       
             "color": "rgb(138 211 138)",
             "children": [
                 {
                     "name": "Children develop fluency in reading and writing in Language 1",
-                    "size":123,
                     "color": "rgb(184 240 184)",
                     "children": [
                         {
@@ -226,7 +218,6 @@
                 },
                 {
                     "name": "Children begin to read and write in Language 2",
-                    "size":123,
                     "color": "rgb(184 240 184)",
                     "children": [
                         {
@@ -243,7 +234,6 @@
                 },
                 {
                     "name": "Children develop effective communication skills for day-to-day interactions in two languages",
-                    "size":123,
                     "color": "rgb(138 211 138)",
                     "children": [
                         {
@@ -287,12 +277,10 @@
         },
         {
             "name": "Aesthetic and Cultural Development",
-            "size":123,
             "color": "rgb(184 240 184)",
             "children": [
                 {
                     "name": "Children develop abilities and sensibilities in visual and performing arts, and express their emotions through art in meaningful and joyful ways",
-                    "size":123,
                     "color": "rgb(184 240 184)",
                     "children": [
                         {
@@ -326,12 +314,10 @@
         },
         {
             "name": "Positive Learning Habits",
-            "size":123,
             "color": "rgb(184 240 184)",
             "children": [
                 {
                     "name": "Children develop habits of learning that allow them to engage actively in formal learning environments like a school classroom",
-                    "size":123,
                     "color": "rgb(184 240 184)",
                     "children": [
                         {
