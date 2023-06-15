@@ -24,7 +24,8 @@ export class ExploreComponent implements OnInit {
     language: "efln_as",
     theme: 'efln_brd',
     typec: 'efln_vid',
-    objective: "Develops Observation, wonder, curiosity, and exploration"
+    objective: "Develops Observation, wonder, curiosity, and exploration",
+    source:"Pratham"
   },
   {
     id: 2,
@@ -37,8 +38,8 @@ export class ExploreComponent implements OnInit {
     language: "efln_en",
     theme: 'efln_anm',
     typec: 'efln_rda',
-
-    objective: "Differentiates sounds by their pitch, volume and sound patterns"
+    objective: "Differentiates sounds by their pitch, volume and sound patterns",
+    source:"DIKSHA"
   },
   {
     id: 3,
@@ -51,7 +52,8 @@ export class ExploreComponent implements OnInit {
     language: "efln_gj",
     theme: 'efln_brd',
     typec: 'efln_rd',
-    objective: "Shows care for and joy in engaging with all life forms"
+    objective: "Shows care for and joy in engaging with all life forms",
+    source:"DIKSHA"
   },
   {
     id: 4,
@@ -64,8 +66,8 @@ export class ExploreComponent implements OnInit {
     language: "efln_hi",
     theme: 'efln_anm',
     typec: 'efln_aud',
-    objective: "Comprehends narrated/read-out stories and identifies characters, storyline and what the author wants to say"
-
+    objective: "Comprehends narrated/read-out stories and identifies characters, storyline and what the author wants to say",
+    source:"Pratham"
   },
   {
     id: 5,
@@ -78,8 +80,8 @@ export class ExploreComponent implements OnInit {
     language: "efln_mar",
     theme: 'efln_ntr',
     typec: 'efln_rda',
-    objective: "Shows kindness and helpfulness to others (including animals, plants) when they are in need"
-
+    objective: "Shows kindness and helpfulness to others (including animals, plants) when they are in need",
+    source:"Pratham"
   },
   {
     id: 6,
@@ -92,8 +94,8 @@ export class ExploreComponent implements OnInit {
     language: "efln_ta",
     theme: 'efln_veg',
     typec: 'efln_rda',
-    objective: "Demonstrates willingness and participation in age-appropriate physical work towards helping others"
-
+    objective: "Demonstrates willingness and participation in age-appropriate physical work towards helping others",
+    source:"DIKSHA"
   },
   {
     id: 7,
@@ -106,7 +108,8 @@ export class ExploreComponent implements OnInit {
     language: "efln_ta",
     theme: 'efln_rel',
     typec: 'efln_rd',
-    objective: "Interacts comfortably with other children and adults"
+    objective: "Interacts comfortably with other children and adults",
+    source:"Storyweaver"
   },
   {
     id: 8,
@@ -119,7 +122,8 @@ export class ExploreComponent implements OnInit {
     language: "efln_hi",
     theme: 'efln_brd',
     typec: 'efln_sgn',
-    objective: "Observes and understands different categories of objects and relationships between them"
+    objective: "Observes and understands different categories of objects and relationships between them",
+    source:"DIKSHA"
   }
   ]
 
