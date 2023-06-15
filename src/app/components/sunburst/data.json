@@ -1,1178 +1,76 @@
 {
     "name": "root",
-    "color":"rgb(184 240 184)",
+    "size":123,
+    "color": "rgb(184 240 184)",
     "children": [
         {
-            "name": "Physical Development",
-            "color":"rgb(184 240 184)",
-            "children": [
-                {
-                    "name": "CG-1: Children develop habits that keep them healthy and safe",
-                    "color":"rgb(184 240 184)",
-                    "children": [
-                        {
-                            "name": "C-1.1: Shows a liking for and understanding of nutritious food and does not waste food",
-                            "color":"rgb(184 240 184)",
-                            "children": [
-                                {
-                                    "name": "Identifies things that can be eaten and cannot be eaten",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Begins to eat and name a variety of foods with adult prodding",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Eats a variety of food from different food groups – grains, vegetables, fruits, and proteins (e.g., dal, beans, nuts, dairy) with adult support",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Eats from a variety of food groups independently",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Enjoys the variety in food from different food groups",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Seeks for a variety to fulfill nutritional requirements",
-                                    "color":"rgb(138 211 138)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Names a few healthy food items and a few unhealthy food items",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Identifies healthy and unhealthy food items in a shop",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Gives reasons for why some food is healthy",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Recognises foods from different food groups and explains the benefits/ill-effects of different food groups",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Names some qualities of good nutritious food (e.g., eggs and dal build strength, palak ‘cleans the blood’, milk gives strong teeth)",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Identifies major ingredients in familiar food with help (e.g., dal in sambar, peanut in chutney)",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Names the connection between ingredients and nutrition (e.g., gur and peanut in chikki is good for health)",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Guesses ingredients of cooked food and says whether they are good or bad for health",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Recognises ingredients in packaged food (e.g., biscuits, noodles) and says whether they are good or bad for health",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Follows picture recipes to prepare simple snack",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Participates in preparing nutritious snacks (e.g., mixing boiled chana, sprouted salads, bhelpuri) with adult support",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Prepares nutritious snacks based on recipes, independently",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Eats without spilling",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Eats without wasting food when served appropriate portions",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Asks for appropriate portions of food",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Serves appropriate portions of food on their own without spilling",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                }
-                            ]
-                        },
-                        {
-                            "name": "C-1.2: Practices basic self-care and hygiene",
-                            "color":"rgb(184 240 184)",
-                            "children": [
-                                {
-                                    "name": "Gets help to wash and dry hands before and after using the toilet or eating",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Begins to wash and dry hands before and after using the toilet or eating",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Always washes and dries hands before and after using the toilet or eating",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Demonstrates appropriate use the of toilet",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Becomes independent in basic self-care and hygiene",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Can wear clothes (without buttoning them) and put on their footwear with the help of adults",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Can wear clothes and footwear independently",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Begins using needle and thread to do small mends under supervision",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Fixes buttons and mends small tears with needlethread with help",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Fixes buttons and mends small tears with needlethread independently",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Begins to use personal care objects (combs, toothbrush) on their own",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Use personal care objects appropriately",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                }
-                            ]
-                        },
-                        {
-                            "name": "C-1.3: Keeps school/classroom hygienic and organised",
-                            "color":"rgb(184 240 184)",
-                            "children": [
-                                {
-                                    "name": "Aware of their belongings such as bags, bottles, shoes, handkerchiefs, etc.",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Keeps and retrieves their personal belongings from the correct place",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Maintains their personal belongings in good shape",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Handles study material with care",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Takes care of school property, books, materials, and furniture",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Places soiled plates and utensils in the designated space with the help of adults",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Identifies and uses clean glasses and plates, and places soiled plates and utensils in the designated space independently",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Washes their plates and utensils",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Begins to maintain cleanliness in classrooms, playgrounds, etc",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Participates in the cleaning of classrooms and playgrounds",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Uses dustbin with assistance",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Begins to use a dustbin to dispose of waste",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Always uses a dustbin to dispose of waste",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Begins to segregate waste (wet waste and dry waste)",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Segregates garbage appropriately",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                }
-                            ]
-                        },
-                        {
-                            "name": "C-1.4: Practices safe use of material and simple tools",
-                            "color":"rgb(184 240 184)",
-                            "children": [
-                                {
-                                    "name": "Avoids danger by not touching harmful objects like fire, hot stove, knife, electric plugs",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Handles harmful or dangerous objects with care like scissors, knife, matchstick",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Uses scissors, knife with care under supervision",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Uses nail cutter, small knife with care under supervision",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Independently uses scissors, small knife, nail cutter",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                }
-                            ]
-                        },
-                        {
-                            "name": "C-1.5: Shows awareness of safety in movements (walking, running, cycling) and acts appropriately",
-                            "color":"rgb(184 240 184)",
-                            "children": [
-                                {
-                                    "name": "Identifies road safety as important, holds hands of adults and walks on the road",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Looks both ways before crossing the road, holds hands of peers or adult, and walks safely",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Follows road safety rules (walking on the side, crossing road, etc) independently",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Identifies traffic symbols (signal lights, symbols – zebra crossing, U-turn, bridge/ railway bridge etc)",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Follows basic safety rules in public transportation, on the street, when riding a bicycle, etc",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Follows traffic rules while riding a bicycle, walking on the road",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Recognizes most safety symbols and avoids danger (electric, fire, repair, digging, etc)",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                }
-                            ]
-                        },
-                        {
-                            "name": "C-1.6: Understands unsafe situations and asks for help",
-                            "color":"rgb(184 240 184)",
-                            "children": [
-                                {
-                                    "name": "Differentiates between familiar and strange adults",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Communicates discomfort with trusted adults when asked",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Does not accept toys, chocolates, money, or other things from strangers",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Understands the difference between safe and unsafe touch",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Maintains distance from strangers",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Communicates discomfort with trusted adults on their own",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Uses some language to seek adult and peer help",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Reports any bad touch/behaviour noticed, maintains appropriate distance",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Seeks help from adults when there is an injury (e.g., scraped knee, burns, electrical shock)",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Identifies people in the community who would be of help in an emergency – doctor, fire-fighter, etc",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Understands and uses basic safety protocols (e.g., washing with cold water after a burn)",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                }
-                            ]
-                        },
-                        {
-                            "name": "CG-2: Children develop sharpness in sensorial perceptions",
-                            "color":"rgb(184 240 184)",
-                            "children": []
-                        },
-                        {
-                            "name": "C-2.1: Differentiates between shapes, colours, and their shades",
-                            "color":"rgb(184 240 184)",
-                            "children": [
-                                {
-                                    "name": "Differentiates and names the primary colours (red, blue, yellow) and other common colours in their environment (black, white, brown)",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Differentiates shades within primary colours and secondary colours (e.g., light blue, dark blue, light green, dark green)",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Attempts to predict resulting colour when two colours are mixed (e.g., blue and yellow makes green, or red and white makes pink)",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Predicts resulting colour when two colours are mixed",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Experiments and use colours in art forms and drawings, decorating, display",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Groups objects based on their colour (e.g., all red things together)",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Groups objects based on dimension - length, breadth, height (e.g., all long things together)",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Groups objects based on combinations of visual characteristics of colours and shapes (e.g., all red triangles together, all large green leaves together)",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Makes patterns, solves puzzles, plays games using identification and grouping of various shapes, colours and shades",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                }
-                            ]
-                        },
-                        {
-                            "name": "C-2.2: Develops visual memory for symbols and representations",
-                            "color":"rgb(184 240 184)",
-                            "children": [
-                                {
-                                    "name": "Matches two visual symbols with same pattern and orientation and size (e.g., match with , match ∞ with ∞)",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Matches two visual symbols with same pattern but different orientation and size (e.g., match with , match ∞ with )",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Recalls and matches visual symbols from memory (e.g., memory game using cards)",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                }
-                            ]
-                        },
-                        {
-                            "name": "C-2.3: Differentiates sounds by their pitch, volume and sound patterns by their pitch, volume, and tempo",
-                            "color":"rgb(184 240 184)",
-                            "children": [
-                                {
-                                    "name": "Differentiates sounds in the environment as the sound of humans, animals, vehicles, sound of clap, tap, sound of material etc",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Distinguishes between high (uncha swar) and low pitches (neecha swar) in the sounds of birds and animals, musical instruments and the human voice",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Able to recognise the mid-range in pitch (madhyam swar)",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Discerns if any two sounds/ notes (sur) match in terms of pitch and volume",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Distinguishes between a linear and non-linear progression of musical notes in a given scale",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Differentiates loud and soft sounds",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Distinguishes between slow and fast tempo (dheemi, teevra gati) in rhythmic beats (taal)",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Recognises the mid-range in volume and tempo",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Identifies a change in tempo in any given musical piece",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                }
-                            ]
-                        },
-                        {
-                            "name": "C-2.4: Differentiates multiple smells and tastes",
-                            "color":"rgb(184 240 184)",
-                            "children": [
-                                {
-                                    "name": "Identifies good and bad smell (perfume, flowers, garbage etc)",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Differentiates fragrance of flowers, perfumes, food items etc",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Recognizes smells that indicate danger (e.g., smoke, rotten eggs)",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Identifies sweet, salty, bitter, sour, and hot (spicy) taste",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Explores different tastes and textures from different kinds of food",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                }
-                            ]
-                        },
-                        {
-                            "name": "C-2.5: Develops discrimination in the sense of touch",
-                            "color":"rgb(184 240 184)",
-                            "children": [
-                                {
-                                    "name": "Differentiates hard and soft, hot and cold, rough and smooth surfaces",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Compares two objects based on hard and soft, hot and cold, rough and smooth",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Seriates 3-5 objects based on hard and soft, hot and cold, rough and smooth with right vocabulary (smoothest, smooth, hard, harder, hardest)",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Extends the comparison of textures to finer variations like fluffy, furry, woven, prickly, pitted, etc.",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                }
-                            ]
-                        },
-                        {
-                            "name": "C-2.6: Begins integrating sensorial perceptions to get a holistic awareness of experiences",
-                            "color":"rgb(184 240 184)",
-                            "children": [
-                                {
-                                    "name": "Blows breath with force",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Bows light objects (e.g., paper)",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Breathes in and out rhythmically",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Breathes out slowly over a longer period of time than breathing in",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Does ‘anulomvilom’ breathing",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Sits or lies still for a short duration",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Sits still and pays attention to their breath for a short duration",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Sits still and pays attention to other sensorial perceptions for a short duration",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Sits still and is able to observe one’s own flow of thoughts",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                }
-                            ]
-                        },
-                        {
-                            "name": "CG-3: Children develop a fit and flexible body",
-                            "color":"rgb(184 240 184)",
-                            "children": []
-                        },
-                        {
-                            "name": "C-3.1: Shows coordination between sensorial perceptions and body movements in various activities",
-                            "color":"rgb(184 240 184)",
-                            "children": [
-                                {
-                                    "name": "Begins to catch, throw and kick balls with very basic control",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Catches a large ball, throws and kicks balls forward with good force",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Shows some accuracy in aiming throws within short distances",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Improves catching, throwing, and kicking using different sized balls",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Catches, throws, and kicks balls in play/game situations",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                }
-                            ]
-                        },
-                        {
-                            "name": "C-3.2: Shows balance, coordination and flexibility in various physical activities",
-                            "color":"rgb(184 240 184)",
-                            "children": [
-                                {
-                                    "name": "Stands on one foot with support/aid",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Stands on one foot for longer periods without support",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Hops 4-5 steps",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Hops 10-15 steps",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Hops and plays a full game",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Skips and hops with rope with comfort",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Balances on one leg for a short time",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Balances on variety of surfaces (e.g., bricks, ladders)",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Balances things on head/hand (e.g., walks with a book on their head)",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Shows good body balance (e.g., rides bicycle without support)",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Carries heavy objects chairs/ tables/ bag with good balance and technique",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Shows good body balance with speed (e.g., rides bicycle with speed)",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Shows agility and balance (e.g., climbing on trees, jungle gym)",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Can stand on one leg with the other leg folded for a minute (e.g., dhruvasana)",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                }
-                            ]
-                        },
-                        {
-                            "name": "C-3.3: Shows precision and control in working with their hands and fingers",
-                            "color":"rgb(184 240 184)",
-                            "children": [
-                                {
-                                    "name": "Exhibits fine motor skills, eye-hand coordination and muscle strength in simple activities (e.g., scribbling, tearing paper, pasting, free hand colouring, clay work)",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Exhibits motor control for tasks that require fine-motor, eyehand coordination with moderate precision (e.g., cutting big shapes, threading big beads, buttoning, screwing/ unscrewing bottlecaps, drawing with crayons)",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Uses coordinated movements of fine motor muscles for working on activities that require more precision with some assistance (e.g., pencil drawing, cutting on straight or curved line, threading small beads, legible writing of letters, stringing flowers, colouring within closed figure)",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Creates craft and artwork that requires precision in coordinated eye-hand movements of smaller muscles without assistance (e.g., tracing, clear writing, and drawing, catching a small ball, copying geometric shapes, creating patterns)",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Works with precision and detail for activities that require fine motor control for longer duration (e.g., threading needles, needle work, painting, sketching)",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                }
-                            ]
-                        },
-                        {
-                            "name": "C-3.4: Shows strength and endurance in carrying, walking, and running",
-                            "color":"rgb(184 240 184)",
-                            "children": [
-                                {
-                                    "name": "Walks in straight line",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Able to walk backwards",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Walks on tiptoe (6+ steps)",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Walks, and runs easily changing direction and speed comfortably",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Walks on straight and curved line/ zigzag with ease",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Walks on 6-inchwide beam with balance",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Walks up and down stairs, on alternating feet with ease",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Crawls inside tunnels, etc.",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Walks and runs easily, coordinating body movements harmoniously",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Walks on toes with hands held above the head (e.g., tadaasana) for 10 metres",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Walks for a km or more on different terrains with ease",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Stands stably with hands held above the head (e.g., tadaasana) for one minute",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Shows strength and endurance in walking long distance (2-3 kms) on different terrains",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Jumps in place, jumps across one short hurdle",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Jumps landing on feet (height 2½-3 feet)",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Jumps on both feet and over short objects without/ with little support",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Jumps on both feet and over short objects without/ with little support",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Climbs and jumps with ease (e.g., small trees)",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Runs around and jumps over objects with ease",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Carries simple weights and moves with them (e.g., carries a small mug of sand from one place to another)",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Shows willingness to exert their strength for tasks that require use of the large muscle groups (e.g., helps to move small furniture in classroom)",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Shows comfort in executing tasks that require strength in play situations (e.g., play tug of war)",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Shows strength and endurance in work and play situations (e.g., lifts small pots in the garden, carries bucket of water, runs for 15 minutes)",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
             "name": "Socio-Emotional and Ethical Development",
-            "color":"rgb(184 240 184)",
+            "size":123,
+            "color": "rgb(184 240 184)",
             "children": [
                 {
-                    "name": "CG-4: Children develop emotional intelligence",
-                    "color":"rgb(184 240 184)",
+                    "name": "Children develop emotional intelligence",
+                    "size":123,
+                    "color": "rgb(184 240 184)",
                     "children": [
                         {
-                            "name": "C-4.1: Starts recognising ‘self’ as an individual belonging to a family and community",
-                            "color":"rgb(184 240 184)",
-                            "children": [
-                                {
-                                    "name": "Age 3-4 Demonstrates awareness of self as a unique individual (e.g. refers to favourite shirt or bag or thing) Says own first and family (last) name",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 4-5 Identifies self as a member of a family, neighbourhood, school, city, with different people doing different roles Shares other identifying information (e.g., parent’s name)",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 5-6 Identifies self as a member of a family, neighbourhood, school, city, with different people doing different roles  Shares personal identifying information such as home address, details of family members, school, etc.",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                }
-                            ]
+                            "name": "Starts recognising ‘self’ as an individual belonging to a family and community",
+                            "size":123,
+                            "color": "rgb(184 240 184)"
                         },
                         {
-                            "name": "C-4.2: Recognises different emotions and makes deliberate effort to regulate them appropriately",
-                            "color":"rgb(184 240 184)",
-                            "children": [
-                                {
-                                    "name": "Age 3-4 Identifies their wants and feelings (e.g., I don’t want to colour today, I want to go out) Recognizes simple emotions (fear, joy, sadness)",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 4-5 Associates emotions with words and facial expressions Expresses emotions through verbal and non- verbal modes (e.g., gestures, drawings)",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Describes their feelings and their causes (e.g., I am angry because he broke my block tower) Shares with others (peer and familiar adults) their feelings/emotions Agrees to change of activity when upset/angry to help themselves calm down",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 6-7 & Age 7-8 Describes their emotions in socially approved ways (e.g., stops crying and explains why they were crying) Responds with appropriate emotions (e.g., laughs at jokes in circle time, sits quietly when upset) Consciously uses strategies to calm themselves down (e.g., breathing, changing activity)",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                }
-                            ]
+                            "name": "Recognises different emotions and makes deliberate effort to regulate them appropriately",
+                            "size":123,
+                            "color": "rgb(184 240 184)"
                         },
                         {
-                            "name": "C-4.3: Interacts comfortably with other children and adults",
-                            "color":"rgb(184 240 184)",
-                            "children": [
-                                {
-                                    "name": "Age 3-4 & Age 4-5 Identifies/names close family members/ particular adults Interacts comfortably with familiar adults Demonstrates comfort in staying in the classroom without parents or familiar adults Demonstrates spontaneity and preference to play with familiar children, joins a group of children playing, with adult’s help if necessary",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 5-6 Begins to interact comfortably with less familiar adults Demonstrates strategies to play and work with other children (e.g., invite them to join a game, accommodates mutual rules, negotiations, roles for play) Separates willingly from adults to play with peers, most of the time Makes and maintains a close friendship with at least one child Asks for help from familiar adult",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 6-7 Interacts with familiar and less familiar adults with respect (e.g., namaste, please, thank you, sorry)  Plays in a coordinated manner with other children, recognizes mutual interests with friends Enjoys being in the company of peers Makes and maintains a close friendship with at least one child Asks for help from familiar adult",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 7-8 Interacts with familiar and less familiar adults with respect (e.g., namaste, please, thank you, sorry) Understands and responds to specific (procedural) rules in play with other children Spends long hours with peers and can manage with adult support in strange environment (long field trips) Has a circle of friends at school Asks for help from less familiar adults when in need Helps adults or other children when in need",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                }
-                            ]
+                            "name": "Interacts comfortably with other children and adults",
+                            "size":123,
+                            "color": "rgb(184 240 184)"
                         },
                         {
-                            "name": "C-4.4: Shows cooperative behaviour with other children",
-                            "color":"rgb(184 240 184)",
-                            "children": [
-                                {
-                                    "name": "Age 3-4 Begins to play with other children",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 4-5 Enjoys playing with other children",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 5-6 Initiates playing with other children and makes plans (e.g., what, how, when to play)",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 6-7 Demonstrates willingness to include other’s ideas during play Follows rules while playing with others",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 7-8 Frames rules for play with others and follows those rules",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                }
-                            ]
+                            "name": "Shows cooperative behaviour with other children",
+                            "size":123,
+                            "color": "rgb(184 240 184)"
                         },
                         {
-                            "name": "C-4.5: Understands and responds positively to social norms in the classroom and school",
-                            "color":"rgb(184 240 184)",
-                            "children": [
-                                {
-                                    "name": "Age 3-4 Participates in everyday activities Follows simple instructions with teacher’s support",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 4-5 Enjoys everyday activities with other children Waits for their turn Follows short simple instructions",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 5-6 Demonstrates independence in daily activities, Takes responsibility for completing own work Shares discomfort and seeks help when in need Follows simple rules in school without adult reminders",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 6-7 Takes initiative to conduct an activity Displays skills to work with different children for different tasks, negotiating responsibility and tasks with other children Follows instructions/rules Understands consequences of violating rules",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                }
-                            ]
+                            "name": "Understands and responds positively to social norms in the classroom and school",
+                            "size":123,
+                            "color": "rgb(184 240 184)"
                         },
                         {
-                            "name": "C-4.6: Shows kindness and helpfulness to others (including animals, plants) when they are in need",
-                            "color":"rgb(184 240 184)",
-                            "children": [
-                                {
-                                    "name": "Age 4-5 Shows affection towards other children and adults",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 5-6 Shows care in handling materials",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 6-7 Shows care and tenderness in dealing with other living things",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 7-8 Works in common tasks with kindness and affection to others in the group",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                }
-                            ]
+                            "name": "Shows kindness and helpfulness to others (including animals, plants) when they are in need",
+                            "size":123,
+                            "color": "rgb(184 240 184)"
                         },
                         {
-                            "name": "C-4.7: Understands and responds positively to different thoughts, preferences, and emotional needs of other children",
-                            "color":"rgb(184 240 184)",
-                            "children": [
-                                {
-                                    "name": "Age 4-5 Plays and interacts with all children irrespective of background or ability",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 5-6 Begins to notice similarities and differences among children (e.g., height, gender, skin colour, way of speaking, eating preferences)",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 6-7 Works well in mixed groups for classroom activities Does not bully/ label other children because of their differences",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 7-8 Shows curiosity and interest in “people not like me” Articulates questions on similarities and differences among people Engages comfortably with a diverse group of peers despite knowing similarities and differences",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                }
-                            ]
+                            "name": "Understands and responds positively to different thoughts, preferences, and emotional needs of other children",
+                            "size":123,
+                            "color": "rgb(184 240 184)"
                         }
                     ]
                 },
                 {
-                    "name": "CG-5: Children develop a positive attitude towards productive work and service or ‘Seva’",
-                    "color":"rgb(184 240 184)",
+                    "name": "Children develop a positive attitude towards productive work and service or ‘Seva’",
+                    "size":123,
+                    "color": "rgb(184 240 184)",
                     "children": [
                         {
-                            "name": "C-5.1: Demonstrates willingness and participation in age-appropriate physical work towards helping others",
-                            "color":"rgb(184 240 184)",
-                            "children": [
-                                {
-                                    "name": "Age 3-4  Places materials and toys back in their appropriate locations after use",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 4-5 Assists the teacher and organizes the classroom",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 5-6 Cleans own plates or tiffin after eating food  • Performs appropriate chores at home and/or at school (e.g., putting away toys, watering plants)",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 6 - 7  Germinates and takes care of seedlings of local trees",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 7-8  Assists teachers to create TLM  • Helps in the kitchen with cleaning and cutting",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                }
-                            ]
+                            "name": "Demonstrates willingness and participation in age-appropriate physical work towards helping others",
+                            "size":123,
+                            "color": "rgb(184 240 184)"
                         }
                     ]
                 },
                 {
-                    "name": "CG-6: Children develop a positive regard for the natural environment around them",
-                    "color":"rgb(184 240 184)",
+                    "name": "Children develop a positive regard for the natural environment around them",
+                    "size":123,
+                    "color": "rgb(184 240 184)",
                     "children": [
                         {
-                            "name": "C-6.1: Shows care for and joy in engaging with all life forms",
-                            "color":"rgb(184 240 184)",
-                            "children": [
-                                {
-                                    "name": "Age 3-4 Shows curiosity in observing plants and animals",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 4-5 Does not harm plants and animals unnecessarily",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 5-6 Shows joy in engaging with plants and animals in the local environment Shows no discomfort in physical engagement with nature (e.g., in garden or parks)",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 6-7 Shows curiosity and interest in identifying specific flora and fauna Takes responsibility for tending and caring for saplings and plants",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 7-8 Takes responsibility for tending to and caring for animals like kittens, puppies, chicken Enjoys going out for nature walks and observing plants and animals",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                }
-                            ]
+                            "name": "Shows care for and joy in engaging with all life forms",
+                            "size":123,
+                            "color": "rgb(184 240 184)"
                         }
                     ]
                 }
@@ -1180,461 +78,90 @@
         },
         {
             "name": "Cognitive Development",
-            "color":"rgb(138 211 138)",
+            "size":123,
+            "color": "rgb(138 211 138)",
             "children": [
                 {
-                    "name": "CG-7: Children make sense of world around through observation and logical thinking",
-                    "color":"rgb(138 211 138)",
+                    "name": "Children make sense of world around through observation and logical thinking",
+                    "size":123,
+                    "color": "rgb(138 211 138)",
                     "children": [
                         {
-                            "name": "C-7.1: Observes and understands different categories of objects and relationships between them",
-                            "color":"rgb(184 240 184)",
-                            "children": [
-                                {
-                                    "name": "Age 3-4 Identifies and names common objects, people, pictures, animals, birds, events etc. with assistance Identifies the missing part of a familiar picture of familiar object Recognizes hierarchical relationships within categories (e.g., animals and their younger ones) Makes comparisons within and between categories (add example) Plays using object substitution (e.g., uses banana as telephone) Makes connections between objects and their uses (e.g., spoon is for eating, bucket is for bath, mechanic is to a garage as a doctor is to hospital",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 4-5 Identifies and describes common objects, people, pictures, animals, birds, events etc. on their own Identifies 3-5 missing parts of a picture of familiar object Recognizes hierarchical relationships within categories (e.g., animals and their younger ones) Makes comparisons within and between categories (add example) Plays using object substitution (e.g., uses banana as telephone) Makes connections between objects and their uses (e.g., spoon is for eating, bucket is for bath, mechanic is to a garage as a doctor is to hospital",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 5-6 Notices and describes general details of common objects, people, pictures, animals, birds in the immediate environment and in pictures/models (e.g., the big door in the house) Identifies 4-6 missing parts of a picture of familiar object Recognizes hierarchical relationships within categories (e.g., animals and their younger ones) Makes comparisons within and between categories (add example) Plays using object substitution (e.g., uses banana as telephone) Makes connections between objects and their uses (e.g., spoon is for eating, bucket is for bath, mechanic is to a garage as a doctor is to hospital",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 6-7 Identifies and describes finer details of the objects, signs, places, common activities in the in the immediate environment and in the picture/models (e.g., the big brown door in the small green house) Compares given objects/pictures and identifies similarities and differences",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                }
-                            ]
+                            "name": "Observes and understands different categories of objects and relationships between them",
+                            "size":123,
+                            "color": "rgb(184 240 184)"
                         },
                         {
-                            "name": "C-7.2: Observes and understands cause and effect relationships in nature by forming simple hypothesis and uses observations to explain their hypothesis",
-                            "color":"rgb(138 211 138)",
-                            "children": [
-                                {
-                                    "name": "Age 3-4 Uses ideas based on observations (e.g., imitates adults blowing on hot food before eating) Differentiates between day and night Identifies pleasing elements, flora and fauna in the immediate environment (e.g., flowers, trees, clouds, animals, birds, sunlight, stars) Explains the impact of one’s actions/ behaviour on others (e.g., hitting a dog with a stone hurts a helpless creature, not turning off a tap wastes water)",
-                                    "color":"rgb(138 211 138)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 4-5 Applies known information in a new context (e.g., builds a castle out of blocks as seen in a story book) Identifies summer and winter Names objects in the sky (sun, moon, stars, clouds) States how elements, flora and fauna in their immediate environment make them feel (e.g., flowers, clouds, trees, animals, birds, starts, sunlight) Answers simple questions about events and phenomenon in the physical environment of the teacher and peers Expresses views on needs of plants, birds and animals with the support",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 5-6 Recognizes the effect of one object on an another (e.g., if I put salt in water it will dissolve, if I put ice in the sun it will melt). Explains effects of simple actions on objects (e.g., the harder I kick the ball the further it goes). Makes causal connections (e.g., Abdul did not come to school because he was sick, the plant died because it has not rained). Makes predictions based on causal relationships (e.g., if there are white clouds in the sky it will not rain) Observes and forms generalizations (e.g., notice things that roll – tires, bangles, have “round” shape) Explains clothing and food for summer and winter Connects sunrise and sunset today and night Describes attributes of elements, flora and fauna in their natural environment that are appealing (e.g., flowers, clouds, trees, animals, birds, starts, sunlight) Describes the activities involved in the care of the school garden/ park near the school Collaborates with peers to come up with answers to questions related to natural phenomenon that can be investigated (e.g., what floats and sinks, which objects do magnets attract) Explains the concept of shared natural resources (e.g., water is used by us, birds, plants)",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 6-7 Recognizes the effect of one object on an another (e.g., if I put salt in water it will dissolve, if I put ice in the sun it will melt). Explains effects of simple actions on objects (e.g., the harder I kick the ball the further it goes). Makes causal connections (e.g., Abdul did not come to school because he was sick, the plant died because it has not rained). Makes predictions based on causal relationships (e.g., if there are white clouds in the sky it will not rain) Forms and tests simple hypothesis (e.g., plates float and pins sink, drop a piece of paper and a stone together and see which will reach the ground first) Applies their understanding to solve simple problems (e.g., while making a sand house, use a stick to support the structure, or add water to set it) Forms and tests simple hypothesis (e.g., plates float and pins sink, drop a piece of paper and a stone together and see which will reach the ground first) Applies their understanding to solve simple problems (e.g., while making a sand house, use a stick to support the structure, or add water to set it) Differentiates among summer, winter, and monsoon seasons Indicates where sun and moon rise and set Describes pleasing features in the natural environment (e.g., rivers, mountains, sea, waterfalls, streams) Describes pleasing attributes of the natural environment seen in films, pictures and videos Cares for a plant in the school garden/ potted plant placed in the classroom Develops a list of questions to break up a larger question related to natural phenomenon Asks questions about patterns in the natural environment (e.g., different kinds of leaves and flowers, sunrise, and sunset) Describes the interdependence between natural environment and humans (e.g., water in homes comes from water bodies)",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 7-8 Recognizes the effect of one object on an another (e.g., if I put salt in water it will dissolve, if I put ice in the sun it will melt). Explains effects of simple actions on objects (e.g., the harder I kick the ball the further it goes). Makes causal connections (e.g., Abdul did not come to school because he was sick, the plant died because it has not rained). Makes predictions based on causal relationships (e.g., if there are white clouds in the sky it will not rain) Names the directions (north, south, east, west) Compares the attributes of pleasing features/elements /flora/fauna in the physical environment Explains how a plant develops from a seed (planted in a pot or in the school garden) Asks ‘why’ and open-ended questions related to natural phenomenon and seeks answers through dialogue and/or exploration (e.g., why it does rain, what if we did not have sunlight) Describes how a balance must be maintained between the needs of human society and the natural environment (e.g., being kind to animals enables them to work with us, correct garbage disposal is necessary to avoid diseases)",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                }
-                            ]
+                            "name": "Observes and understands cause and effect relationships in nature by forming simple hypothesis and uses observations to explain their hypothesis",
+                            "size":123,
+                            "color": "rgb(138 211 138)"
                         },
                         {
-                            "name": "C-7.3: Uses appropriate tools and technology in daily life situations and for learning",
-                            "color":"rgb(184 240 184)",
-                            "children": [
-                                {
-                                    "name": "Age 3-4 Shows dexterity in using simple tools for drawing/colouring",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 4-5 Shows inclination to using simple tools while playing Shows attention and regulation when interacting with digital audio- visual material",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 5-6 Chooses appropriate tools for appropriate work when doing land work or in arts/crafts Engages with digital technology like smartphones/tabl ets with the assistance of the teacher",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 6-7 Uses tools and implements effectively in work situations Shows simple usage of digital technology in learning situations (e.g., starting/pausing audio-visual material)",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 7-8 Builds simple tools and implements for using in day-to- day activities Shows fluency and comfort in using digital audio-visual material in learning situations",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                }
-                            ]
+                            "name": "Uses appropriate tools and technology in daily life situations and for learning",
+                            "size":123,
+                            "color": "rgb(184 240 184)"
                         }
                     ]
                 },
                 {
-                    "name": "CG-8: Children develop mathematical understanding and abilities to recognize the world through quantities, shapes, and measures",
-                    "color":"rgb(184 240 184)",
+                    "name": "Children develop mathematical understanding and abilities to recognize the world through quantities, shapes, and measures",
+                    "size":123,
+                    "color": "rgb(184 240 184)",
                     "children": [
                         {
-                            "name": "C-8.1: Sorts objects into groups and sub-groups based on more than one property",
-                            "color":"rgb(184 240 184)",
-                            "children": [
-                                {
-                                    "name": "Age 3-4 Sorts objects into 2 groups based on size, length, height, and weight (big- small, Long - Short)",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 4-5 Sorts objects into 3 groups based on size, length, height, and weight (smaller sized – big sized – bigger sized)",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 6-7 Sorts objects into groups based on attributes they recognize and describes the rule of sorting. (e.g., sort animals that live in the same surrounding - dogs, cats, rats, snakes. Within this are able classify grass- eating and meat- eating animals.)",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 7-8 Sorts objects into groups and sub-groups (e.g., in a group of blocks, first sorts based on colour, then within the colour, sorts based on shape, then sorts based on size. Sorts between trees and creepers, within that sort fruit bearing and non-fruit bearing, within that edible or non-edible)",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                }
-                            ]
+                            "name": "Sorts objects into groups and sub-groups based on more than one property",
+                            "size":123,
+                            "color": "rgb(184 240 184)"
                         },
                         {
-                            "name": "C-8.10: Performs simple measurements of time in minutes, hours, day, weeks, and months",
-                            "color":"rgb(184 240 184)",
-                            "children": [
-                                {
-                                    "name": "Age 3-4 Uses vocabulary in daily life like today, tomorrow, and yesterday",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 4-5 Identifies special days like Saturday, Sunday, holiday (e.g., Sunday is a holiday)",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 5-6 Knows the names of the days of the week and months of the year",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 6-7 Distinguishes between events occurring in time using terms like earlier and later. Gets the qualitative feel of long & short duration, of school days v/s holidays. Narrates the sequence of events in a day.",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 7-8 Gets a feel for sequence of seasons (varying locally). Measures duration of time using standard units -days, hours (e.g., 7 days a week and 24 hours in a day)",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                }
-                            ]
+                            "name": "Performs simple measurements of time in minutes, hours, day, weeks, and months",
+                            "size":123,
+                            "color": "rgb(184 240 184)"
                         },
                         {
-                            "name": "C-8.11: Performs simple transactions using money up to INR 100",
-                            "color":"rgb(184 240 184)",
-                            "children": [
-                                {
-                                    "name": "Age 3-4 Uses vocabulary related to money using poems and stories",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 4-5 Identifies Indian currency coins",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 5-6 Identifies Indian currency notes",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 6-7 Adds up notes and coins to form amounts up to Rs. 20",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 7-8 Adds up notes and coins to form amounts up to Rs. 100",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "evelops adequate and appropriate vocabulary for comprehending and expressing concepts and procedures related to quantities, shapes, space, and measurements*",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Ages 3 - 8 Names shapes and a few properties of shapes • Listens to and comprehends simple instructions using number words and shape names • Uses number words, and shape names appropriately • Uses number words and operations, shape names, and measurements appropriately • Constructs full sentences to describe a mathematical problem related to quantities, shapes, space, and measurements • Comprehends texts and extracts simple mathematical problems embedded in the text • Creates simple mathematical riddles and puzzles",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "ormulates and solves simple mathematical problems related to quantities, shapes, space, and measurements",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Ages 3 - 8  • Solves simple inset puzzles with geometric and nongeometric shapes • Creates specific figures from tangram shapes • Uses their number knowledge to solve simple riddles and puzzles • Recognizes situations in the real world as simple mathematical problems • Solves simple numerical problems using different strategies • Talks about different ways in which to solve a simple mathematical problem • Rechecks their solutions to see if there are any errors. • Engages in games and puzzles that require quantificatio",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                }
-                            ]
+                            "name": "Performs simple transactions using money up to INR 100",
+                            "size":123,
+                            "color": "rgb(184 240 184)"
                         },
                         {
-                            "name": "C-8.2: Identifies and extends simple patterns in their surroundings, shapes, and numbers",
-                            "color":"rgb(184 240 184)",
-                            "children": [
-                                {
-                                    "name": "Age 3-4 Recognizes & repeats the patterns in pairs – Objects, pictures, shapes (leaf, flower, leaf, flower, in A B A B A B A B A B A B A pattern). Recognizes and repeats the patterns of sounds (da-ma- ga, da-ma-ga, etc.) Recognizes and repeats the patterns of the movements (hop-stand- jump, hop- stand-jump)",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 4-5 Recognizes the unit of a repeating pattern, and extends the patterns of 3 to 4 objects/pictures/ shapes repetitions ABC (pen-book - pencil; pen-book- pencil in ABC| ABC| ABC| pattern Recognizes, repeats and extends the pattern of action/ sounds Recognizes and repeats patterns of 3 different bodily movements clearly",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 5-6 Creates new pattern based different features – colour, shape, size. Describes the rule of pattern and creates new pattern in different objects (creating mandalas with twigs, flowers)",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 6-7 Fills in missing elements of simple, repeating patterns in different aspects (e.g., red - blue, red, blue, red, ) with adult help",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 7-8 Describes the rule of patterns and applies this on abstract patterns such as number, symbol, and analogic thinking patterns. (e.g., using colours in pattern while drawing and painting. Using symbols or dots of same quantity into different patterns –  Analogical",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                }
-                            ]
+                            "name": "Identifies and extends simple patterns in their surroundings, shapes, and numbers",
+                            "size":123,
+                            "color": "rgb(184 240 184)"
                         },
                         {
-                            "name": "C-8.3: Counts up to 99 both forwards and backwards and in groups of 10s and 20s Counts up to 99 both forwards and backwards and in groups of 10s and 20s",
-                            "color":"rgb(184 240 184)",
-                            "children": [
-                                {
-                                    "name": "Age 3-4 yrs. Says/sings number names verbally till 5 in correct sequence/orde r with context Imitates adults while counting using one to one correspondenc e between number names and objects till 3 Counts objects up to 3 and develop understanding of cardinality till 3 (e.g., counts 3 things in a set and says those are 3) Counts given manipulatives or objects and can pick and give up to 5 things Compares quantities between two sets and can distinguish if they are the same or more up to 3 objects Recognizes instantly the count of a collection of 2 or 3 objects",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 4-5 yrs. Says/sings number names in correct sequence up to 10. And keeps one to one correspondence with number words and objects till 5. Counts objects with understanding of cardinality (recognizing the quantity of set) up to 5 Demonstrates the understanding of number sense (number ness) (e.g., 5 could be 5 different objects - 5 people, 5 books, 5 pencils) Demonstrates fluency of counting concrete, discrete objects, and abstract things up to 5 (e.g., 5 steps, 5 claps) Counts forward up to 10 from memory in correct sequence Begins to count up to 20 Recognizes instantly the count of a collection of 4 objects (e.g., recognize 4 biscuits, chocolates, or blocks without counting)",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 5-6 yrs. Says/sings number names in correct sequence up to 20 and keeps one to one correspondence with counting words and counting objects till 10. Counts objects with understanding of cardinality till 10 accurately Counts objects in any order accurately in a given set and understands that the quantity remains same irrespective of the order in which the objects are being counted, (e.g., given a handful of beads, children can count in any order and be able to tell the quantity accurately) Understands the concept of 0 as a number by reducing (backward counting) objects in a set (e.g., backward counting of 3 beads, after 1 what is left?) Demonstrates the understanding of the numeral as face size and positioning size (ordinality). And ordinal position of an object from left to right vice versa. Recognizes instantly the count of a collection of 6 objects (e.g., recognize 6 biscuits, chocolates, or blocks without counting)",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 6-7 yrs. Counts objects greater than 20 using number names till 99 and observe the pattern as groups of 10, up to 99 Counts forward and backward from a specific number (between 0 and 99)  Recognizes quantities in groups of 2 (e.g., two groups of ten makes 20)",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 7-8 yrs. Demonstrate s skip counting in 2s or 3s on a number line (graduated) or blocks /pictures Reads and writes Indian numerals for numbers up to ninety- nine using place size in groups of tens and ones. (Should it be part of number sense?) Counts in groups of 10s,20s,30s, up to 99 Recognizes quantities in groups of 2 (e.g., two groups of ten makes 20)",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                }
-                            ]
+                            "name": "Counts up to 99 both forwards and backwards and in groups of 10s and 20s Counts up to 99 both forwards and backwards and in groups of 10s and 20s",
+                            "size":123,
+                            "color": "rgb(184 240 184)"
                         },
                         {
-                            "name": "C-8.4: Arranges numbers up to 99 in ascending and descending order",
-                            "color":"rgb(184 240 184)",
-                            "children": [
-                                {
-                                    "name": "Age 3-4 Arranges familiar incidents/ events/ objects in an order (daily routine, story, shapes, size) (2 to 3)",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 4-5 Arranges objects in order based on size up to 3 levels and verbalizes their levels (Big – Small – Smaller; Long – Short Shorter; Tall – Short – Shorter)",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 5-6 Arranges up to 5 objects based on size/length/weigh t in increasing or decreasing order",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 6-7 Arranges the same set of objects in different sequences based on different properties of objects",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 7-8 Arranges numbers from a given set of numbers in ascending and descending order",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                }
-                            ]
+                            "name": "Arranges numbers up to 99 in ascending and descending order",
+                            "size":123,
+                            "color": "rgb(184 240 184)"
                         },
                         {
-                            "name": "C-8.5: Recognises and uses numerals to represent quantities up to 99 with the understanding of decimal place size system",
-                            "color":"rgb(184 240 184)",
-                            "children": [
-                                {
-                                    "name": "Age 3-4 Compares two numbers (orally) up to 3 and uses vocabulary like more and less",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 4-5 Recognizes numerals up to 5 Compares two numbers up to 5 and uses vocabulary like more than, less than",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 5-6 Recognizes Indian numerals up to 9 Writes comfortably numerals up to 9 Compares two numbers up to 9 and uses vocabulary like more than, less than",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 6-7 Recognizes the symbol zero to represent absence of object/thing Recognizes and writes numerals up to 20 and in words up to 10. Compares two numbers up to 20 and uses vocabulary like bigger than or smaller than",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 7-8 Recognises, reads, writes number names and numerals up to 99 using place size concept Compares and forms the greatest and smallest two-digit numbers (with and without repetition of given digits).",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                }
-                            ]
+                            "name": "Recognises and uses numerals to represent quantities up to 99 with the understanding of decimal place size system",
+                            "size":123,
+                            "color": "rgb(184 240 184)"
                         },
                         {
-                            "name": "C-8.6: Performs addition and subtraction of 2-digit numbers fluently using flexible strategies of composition and decomposition",
-                            "color":"rgb(184 240 184)",
-                            "children": [
-                                {
-                                    "name": "Age 3-4 Takes/puts away very small collections (totalling up to 3) by grouping and ungrouping rather than answering verbally",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 4-5 Combines two groups up to 5 objects and recounts. (e.g., there are 2 chocolates with me and 3 with my sister, put them together and count and tell me how many I have in all) Takes out up to 5 objects from a collection and recounts",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 5-6  Combines two groups up to 9 objects and recounts. (e.g., there are 5 chocolates with me and 3 with my sister, put them together and count and tell me how many I have in all) Takes out up to 9 objects from a collection and recounts",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 6-7 Uses real-world situations and concrete objects to model and solve addition sums up to 18 using addition facts Uses real-world situations and concrete objects to model and solve subtraction (e.g., taking away of chocolates in given set) problems up through 9 Using subtraction facts Develops relationship between addition and subtraction of numbers Recognizes the +/- symbols for addition/subtraction operations",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 7-8 Uses flexible strategies and derive combinations of composing (add together) and decomposing numbers (take away for the set) Adds two numbers using place size concept (sum not exceeding 99) and applies them to solve simple daily life problems/ situations. Subtracts two numbers up to 99 using place size and applies them to solve simple daily life problems/ situations. Appreciates and applies relationship between addition and subtraction of numbers Identifies appropriate operation (addition or subtraction) to solve problems in a familiar situation/context Comprehends and solves simple word problems",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                }
-                            ]
+                            "name": "Performs addition and subtraction of 2-digit numbers fluently using flexible strategies of composition and decomposition",
+                            "size":123,
+                            "color": "rgb(184 240 184)"
                         },
                         {
-                            "name": "C-8.7: Recognises multiplication as repeated addition and division as equal sharing",
-                            "color":"rgb(184 240 184)",
-                            "children": [
-                                {
-                                    "name": "Age 3-4 Distributes a given set of objects to multiple recipients",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 4-5  Shares objects (up to 6) equally to 2 recipients",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 5-6 Makes small groups of objects and counts the total number of objects and groups Shares objects (up to 20) equally to 4-5 recipients",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 6-7 Solves small- number multiplication problems by grouping Recognizes the symbol for multiplication operation Uses trial and error and sharing into groups for solving division problems Recognizes the symbol for division operation",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 7-8 Uses repeated adding to solve simple multiplication problems up to 99 Uses repeated addition to find out how many groups for solving division problems",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                }
-                            ]
+                            "name": "Recognises multiplication as repeated addition and division as equal sharing",
+                            "size":123,
+                            "color": "rgb(184 240 184)"
                         },
                         {
-                            "name": "C-8.8: Recognises, makes, and classifies basic geometric shapes and their observable properties, and understands and explains the relative relation of objects in space",
-                            "color":"rgb(184 240 184)",
-                            "children": [
-                                {
-                                    "name": "Age 3-4 Matches by shape, size or colour by one attribute Compares and classifies objects by one factor like shape, colour and size Follows simple instructions and places objects based on shape, colour, and position – e.g., bring red balloon here, keep round ball on the table",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 4-5 Matches shapes of with different size and colours Compares and classifies objects by two factors (e.g., shape & colour, colour and size) Describes the physical features of various solids/shapes in their own language. (e.g., a ball rolls and has no corners, a box slides and has corners) Follows instructions with multiple steps with understanding positional words different shapes, colours, and positions to form a pattern (e.g., arranges different things into formation of mandala; making a collage/ by understanding positional words – in between, above, below)",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 5-6 Matches shapes of different size and orientation (e.g., matches differently oriented triangles and sizes?) Compares and classifies objects by three factors (e.g., shape, colour, size) Uses positional words (e.g., besides, inside, under) to describe objects. Describes the physical features of various solids/shapes in her own language (e.g., a ball rolls and has no corners, a box slides and has corners) Identifies the 2-D shapes by tracing the faces of 3- D shapes on a plane surface Draw s2-D shapes free hand with some accuracy and control",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 6-7 Develops and uses vocabulary of spatial relationship (e.g., top, bottom, on, under, inside, outside, above, below, near, far, before, after) Collects objects from the surroundings having different sizes and shapes (e.g., pebbles, boxes, balls, cones, pipes) Sorts, classifies and describes the objects on the basis of shapes, and other observable properties Observes and describes the physical features of various solids/shapes in her own language (e.g., a ball rolls, a box slides) Compares shapes based on specific attributes (e.g., length, area, volume)",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 7-8 Identifies 3D shapes by their names (e.g., cuboid, cylinder, cone and sphere) and describes their observable characteristics (e.g., a cube has six faces) Identifies 2D shapes by their names (e.g., square, rectangle, triangle and circle) and describes their observable characteristics (e.g., the pages of a book are rectangular and have 4 sides, 4 corners) Distinguishes between straight and curved lines and draws/ represents straight lines in various orientations (e.g., vertical, horizontal, slant) Traces 2D outlines of 3D objects Identifies objects by observing their shadows",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                }
-                            ]
+                            "name": "Recognises, makes, and classifies basic geometric shapes and their observable properties, and understands and explains the relative relation of objects in space",
+                            "size":123,
+                            "color": "rgb(184 240 184)"
                         },
                         {
-                            "name": "C-8.9: Selects appropriate tools and units to perform simple measurements of length, weight, and volume of objects in their immediate environment",
-                            "color":"rgb(184 240 184)",
-                            "children": [
-                                {
-                                    "name": "Age 3-4 Length Uses vocabulary (length, width, height, distance) to express length through poems and stories Weight Uses vocabulary to express weight through poems, and stories",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 4-5 Length Compares two objects in terms of their lengths as longer than/shorter than, taller than/ shorter than Weight Compares two objects in terms of their weight as heavier than/ lighter than Volume Uses vocabulary to express volume through poems and stories",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 5-6 Length Compares three objects in terms of their lengths as longest/shortest tallest/shortest Weight Compares three objects in terms of their weight as heaviest/ lightest Volume Compares volumes of two vessels like bottles, glasses, bucket etc.",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 6-7 Length Distinguishes between near, far, thin, thick, longer/taller, shorter, high, low. Measures short lengths in terms of non-uniform units (in the context of games e.g., ‘Gilli Danda’ and ‘marble games’). Estimates short distance and length, and verifies using non-uniform & non- standards units (e.g., hand span, forearm, footsteps, finger) Weight Compares and place in order from light to heavy objects or vice-versa. Volume Estimates and measures volumes of containers using uniform non- standard units like a cup/spoon/ mug",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 7-8 Length Measures lengths & distances along short & long paths using uniform (non- standard) units, extends to longer lengths. Estimates and measures length/distances and capacities of containers using uniform non- standard units like a rod/pencil, cup/ spoon/bucket Weight Appreciates the need for a simple balance. Compares weights of given objects using simple balance. Volume Arranges in order containers as per their volumes based on perception & verifies by pouring out",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                }
-                            ]
+                            "name": "Selects appropriate tools and units to perform simple measurements of length, weight, and volume of objects in their immediate environment",
+                            "size":123,
+                            "color": "rgb(184 240 184)"
                         }
                     ]
                 }
@@ -1642,501 +169,117 @@
         },
         {
             "name": "Language and Literacy Development",
-            "color":"rgb(138 211 138)",
+            "size":123,
+            "color": "rgb(138 211 138)",
             "children": [
                 {
-                    "name": "CG-10: Children develop fluency in reading and writing in Language 1",
-                    "color":"rgb(184 240 184)",
+                    "name": "Children develop fluency in reading and writing in Language 1",
+                    "size":123,
+                    "color": "rgb(184 240 184)",
                     "children": [
                         {
-                            "name": "C-10.1: Develops phonological awareness and blends phonemes/syllables into words and segment words into phonemes/syllables in L1",
-                            "color":"rgb(184 240 184)",
-                            "children": [
-                                {
-                                    "name": "Age 3-4 Sings rhymes Mimics and reproduces syllabic sounds",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 4-5 Identifies rhyming words and alliterations Identifies the beginning and end syllables in words Combines 2-3 syllables to form simple words",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 5-6 Produces rhyming words and alliterations Breaks down syllables into their consonant and vowel sounds Combines sounds (vowel and consonant) to form the most familiar words",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                }
-                            ]
+                            "name": "Develops phonological awareness and blends phonemes/syllables into words and segment words into phonemes/syllables in L1",
+                            "size":123,
+                            "color": "rgb(184 240 184)"
                         },
                         {
-                            "name": "C-10.2: Understands basic structure/format of a book, idea of words in print and direction in which they are printed, and recognises basic punctuation marks",
-                            "color":"rgb(184 240 184)",
-                            "children": [
-                                {
-                                    "name": "Age 3-4 Recognizes/identi fies common signs, logos, and labels (e.g., brand of biscuit based on wrapper colour, soap cover) Distinguishes between printed text and pictures Pretends to read familiar books based on pictures in the story",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 4-5 Holds the print material in the correct way and identifies the front cover, back cover, and title page of a book Follows words from left to right and from top to bottom on a printed page Pretends to read while making appropriate word-like sounds while following a text",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 5-6 Describes that printed material provides information (book, newspaper, pamphlet) Speaks about the book by looking at the cover page (prediction using the cues on the cover)",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 6-7 Recognizes simple punctuation marks (full stop, question mark)",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 7-8  Uses simple punctuation marks (full stop, question mark) appropriately",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                }
-                            ]
+                            "name": "Understands basic structure/format of a book, idea of words in print and direction in which they are printed, and recognises basic punctuation marks",
+                            "size":123,
+                            "color": "rgb(184 240 184)"
                         },
                         {
-                            "name": "C-10.3: Recognises all the letters of the alphabet (forms of akshara) of the script (L1) and uses this knowledge to read and write word",
-                            "color":"rgb(184 240 184)",
-                            "children": [
-                                {
-                                    "name": "Age 3-4 Knows that words are made of letters",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 4-5 Begins to visually recognize and connect letters (Moolaksharas/ Bharakadi/Kaguni ita) to corresponding sounds Reads simple two-syllable words that are familiar and with known aksharas Recognizes as sight words of their names and through labels of objects in their environment",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 5-6 Recognizes most frequently used aksharas (including samyuktaksharas) and connect to corresponding sounds Reads simple three to four- syllable words (including a few commonly occurring double- consonants) that are familiar and with known aksharas Recognizes as sight words of commonly used articles, pronouns, and connecting words",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 6-7 Recognizes all aksharas (including samyuktaksharas) and connect to corresponding sounds Reads multi- syllable words (including consonant clusters)",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 7-8 Reads multi- syllable words (including consonant clusters) and non- words with accuracy",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                }
-                            ]
+                            "name": "Recognises all the letters of the alphabet (forms of akshara) of the script (L1) and uses this knowledge to read and write word",
+                            "size":123,
+                            "color": "rgb(184 240 184)"
                         },
                         {
-                            "name": "C-10.4: Reads stories and passages (in L1) with accuracy and fluency with appropriate pauses and voice modulation",
-                            "color":"rgb(184 240 184)",
-                            "children": [
-                                {
-                                    "name": "Age 4-5 Reads short sentences of known words by recognizing individual letter sounds and sight words",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 5-6 Reads a few sentences of familiar words with accuracy",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 6-7 Reads short passages accurately with appropriate intonation and pauses.",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 7-8 Reads short passages accurately and fluently with appropriate intonation, pauses, and voice modulation.",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                }
-                            ]
+                            "name": "Reads stories and passages (in L1) with accuracy and fluency with appropriate pauses and voice modulation",
+                            "size":123,
+                            "color": "rgb(184 240 184)"
                         },
                         {
-                            "name": "C-10.5: Reads short stories and comprehends its meaning – by identifying characters, storyline and what the author wanted to say – on their own (L1)",
-                            "color":"rgb(184 240 184)",
-                            "children": [
-                                {
-                                    "name": "Age 3-4 Listens to “Read Alouds” and responds to questions posed by the teacher Reads picture books and identify objects and actions",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 4-5 Participates in “Shared Reading” along with the teacher and in the discussions about the reading. Reads picture books and identify characters and plots and narrate the story in short sequence",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 5-6 Participates in “Guided Reading” along with the teacher and in the discussions about the reading. Reads books aloud with short simple texts and uses both visual cues and text to infer and retell the story with accurate sequence and elaboration",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 6-7 Begins “Independent Reading” of books of equal textual and visual content Begins to read unfamiliar story books and comprehend with guidance from the teacher. Identifies plots, and characters.",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 7-8 Begins “Independent Reading” of books of more textual content Reads and identifies characters, plots, sequences, and point of view of the author",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                }
-                            ]
+                            "name": "Reads short stories and comprehends its meaning – by identifying characters, storyline and what the author wanted to say – on their own (L1)",
+                            "size":123,
+                            "color": "rgb(184 240 184)"
                         },
                         {
-                            "name": "C-10.6: Reads short poems and begins to appreciate the poem for its choice of words and imagination (L1)",
-                            "color":"rgb(184 240 184)",
-                            "children": [
-                                {
-                                    "name": "Age 6-7 Reads short poems and narrates the literal meaning of the poem",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 7-8 Reads short poems and infers the imagination of the poet",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                }
-                            ]
+                            "name": "Reads short poems and begins to appreciate the poem for its choice of words and imagination (L1)",
+                            "size":123,
+                            "color": "rgb(184 240 184)"
                         },
                         {
-                            "name": "C-10.7: Reads and comprehends meaning of short news items, instructions and recipes, and publicity material (L1)",
-                            "color":"rgb(184 240 184)",
-                            "children": [
-                                {
-                                    "name": "Age 4-5 • Reads a short set of simple written instructions and follows them",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 6-7 Reads simple instructions to play a game and plays it with a group",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 7-8 • Reads short news items, and publicity pamphlets, and explains the content",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                }
-                            ]
+                            "name": "Reads and comprehends meaning of short news items, instructions and recipes, and publicity material (L1)",
+                            "size":123,
+                            "color": "rgb(184 240 184)"
                         },
                         {
-                            "name": "C-10.8: Writes a paragraph to express their understanding and experiences (L1)",
-                            "color":"rgb(184 240 184)",
-                            "children": [
-                                {
-                                    "name": "Age 3-4 Uses various writing instruments like; chalk piece, pencils, coloured pencils, painting brushes, crayons in  Draws and colours and orally express the intent of the drawing",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 4-5 Uses writing/drawing instruments with ease and fluency Begins to write the aksharas they recognize and use them to form simple words Draws and paints with more accuracy with visible forms and objects and orally describes the drawing/painting",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 5-6 Writes aksharas with accuracy and forms simple words and sentences Draws/paints and adds simple words/sentences to the drawing/painting (including invented spellings)",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 6-7 Writes down with accuracy 3 or 4 syllable words when dictated Creates a sequence of pictures and write short sentences along with them Describes a picture card by writing words and short sentences Writes short instructions for classmates to execute simple procedures",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 7-8 Writes down short sentences when dictated Creates a sequence of pictures and write short sentences along with them with accuracy Writes the story inferred from a picture book. Writes short journals and descriptions of events and experiences",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                }
-                            ]
+                            "name": "Writes a paragraph to express their understanding and experiences (L1)",
+                            "size":123,
+                            "color": "rgb(184 240 184)"
                         },
                         {
-                            "name": "C-10.9: Shows interest in picking up and reading a variety of children’s books (L1)",
-                            "color":"rgb(184 240 184)",
-                            "children": [
-                                {
-                                    "name": "Age 3-4 Shows interest in stories and poems being read out Handles books with care",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 4-5 Picks one out of several books offered by the teacher and explain why they have chosen the book Puts books back in their appropriate place in the classroom",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 5-6 Picks and reads short picture books on their own and talks about the book to other children",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 6-7 Explains preferences in book choices and reads short books on a regular frequency",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 7-8 Displays interest and reads a variety of book both fiction and non-fiction Repairs and fixes books in the school library",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                }
-                            ]
+                            "name": "Shows interest in picking up and reading a variety of children’s books (L1)",
+                            "size":123,
+                            "color": "rgb(184 240 184)"
                         }
                     ]
                 },
                 {
-                    "name": "CG-11: Children begin to read and write in Language 2",
-                    "color":"rgb(184 240 184)",
+                    "name": "Children begin to read and write in Language 2",
+                    "size":123,
+                    "color": "rgb(184 240 184)",
                     "children": [
                         {
-                            "name": "C-11.1: Develops phonological awareness and blends phonemes/syllables into words and segmentwords into phonemes/syllables in L2",
-                            "color":"rgb(184 240 184)",
-                            "children": [
-                                {
-                                    "name": "Age 5-6 Sings rhymes Mimics and reproduces syllabic sounds",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 6-7 Identifies rhyming words and alliterations Identifies the beginning and end syllables in words Combines 2-3 syllables to form simple words",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 7-8 Produces rhyming words and alliterations Breaks down syllables into their consonant and vowel sounds Combines sounds (vowel and consonant) to form the most familiar words",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                }
-                            ]
+                            "name": "Develops phonological awareness and blends phonemes/syllables into words and segmentwords into phonemes/syllables in L2",
+                            "size":123,
+                            "color": "rgb(184 240 184)"
                         },
                         {
-                            "name": "C-11.2: Recognises all the letters of the alphabet of the script (L2) and uses this knowledge to read and write simple words and sentences",
-                            "color":"rgb(184 240 184)",
-                            "children": [
-                                {
-                                    "name": "Age 6-7 Begins to visually recognize and connect letters to corresponding sounds Reads simple two- syllable words that are familiar and with known letters Recognizes as sight words of their names and through labels of objects in their environment Writes down short words on dictation",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 7-8 Recognizes all the letters in the alphabet Reads simple three to four-syllable words that are familiar Recognizes as sight words of commonly used articles, pronouns, and connecting words",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                }
-                            ]
+                            "name": "Recognises all the letters of the alphabet of the script (L2) and uses this knowledge to read and write simple words and sentences",
+                            "size":123,
+                            "color": "rgb(184 240 184)"
                         }
                     ]
                 },
                 {
-                    "name": "CG-9: Children develop effective communication skills for day-to-day interactions in two languages",
-                    "color":"rgb(138 211 138)",
+                    "name": "Children develop effective communication skills for day-to-day interactions in two languages",
+                    "size":123,
+                    "color": "rgb(138 211 138)",
                     "children": [
                         {
-                            "name": "C-9.1: Listens to and appreciates simple songs, rhymes, and poems",
-                            "color":"rgb(138 211 138)",
-                            "children": [
-                                {
-                                    "name": "Age 3-4 Listens to a wide variety of songs and poems Repeats a simple song or a rhyme",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 4-5 Listens and enjoys humming a variety of songs in different languages regularly heard in the environment Sings along to songs and rhymes with intonation and gestures",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 5-6 Listens to longer songs/poems (familiar) with attention and has conversations about them Sings/recites short (4-5 sentences) songs/poems from memory",
-                                    "color":"rgb(138 211 138)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 6-7 Listens to longer songs/poems (unfamiliar) with attention and has conversations about them Sings/recites longer (10 sentences) songs/poems from memory",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 7-8 Shows preferences in listening to certain kinds of songs and poems and explains the reason for their preference Sings/recites songs/poems with multiple stanzas from memory",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                }
-                            ]
+                            "name": "Listens to and appreciates simple songs, rhymes, and poems",
+                            "size":123,
+                            "color": "rgb(138 211 138)"
                         },
                         {
-                            "name": "C-9.2: Creates simple songs and poems on their own",
-                            "color":"rgb(184 240 184)",
-                            "children": [
-                                {
-                                    "name": "Age 4-5 Recalls rhymes for a given beginning sound",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 5-6 Selects rhyming words from familiar poems and modifies them to create short new rhymes",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 6-7 Creates short poems/rhymes with the help of the teacher",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 7-8 Creates short poems/rhymes independently",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                }
-                            ]
+                            "name": "Creates simple songs and poems on their own",
+                            "size":123,
+                            "color": "rgb(184 240 184)"
                         },
                         {
-                            "name": "C-9.3: Converses fluently and can hold a meaningful conversation",
-                            "color":"rgb(184 240 184)",
-                            "children": [
-                                {
-                                    "name": "Age 3-4 Listens attentively and speaks in short conversations with familiar people around Expresses their needs and feeling through short meaningful sentences.",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 4-5 Initiates conversations with peers and teachers in a variety of school settings Narrates daily experiences in simple sentences and ask simple questions, using what/when/how/ whom, etc.",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 5-6 Engages in conversations based on events, stories, or their needs Narrates daily experiences in elaborate descriptions and asks why questions too",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 6-7 Engages in conversations, waits for their turn to speak, and allows others to speak Engages with non-fictional content read aloud or discussed in class, is able to link knowledge from their own experiences, and talks about it",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 7-8 Maintains the thread of the conversation across multiple exchanges Engages in discussion about a topic and raise and respond to questions.",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                }
-                            ]
+                            "name": "Converses fluently and can hold a meaningful conversation",
+                            "size":123,
+                            "color": "rgb(184 240 184)"
                         },
                         {
-                            "name": "C-9.4: Understands oral instructions for a complex task and gives clear oral instructions for the same to others",
-                            "color":"rgb(184 240 184)",
-                            "children": [
-                                {
-                                    "name": "Age 3-4 Listens and follows short instructions (e.g., bring the blocks here, wash hands properly, etc.)",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 4-5 Follows some simple instructions comprising of several steps (2 to 3 instructions at a time).",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 5-6 Follows instructions comprising of several steps - 4 to 5 instructions at a time Gives clear instructions to accomplish short tasks to other children or adults",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 6-7 Follows instructions comprising of several steps (8 to 9 instructions at a time) Gives clear instructions comprising of several steps (8 to 9 instructions at a time)",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 7-8 Follows instructions that have conditional branching (for e.g., if it is raining, do not water the plans, do weeding instead, otherwise water the plants) Gives clear instruction that includes mathematical (e.g., precise directions, spatial and temporal dimensions)",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                }
-                            ]
+                            "name": "Understands oral instructions for a complex task and gives clear oral instructions for the same to others",
+                            "size":123,
+                            "color": "rgb(184 240 184)"
                         },
                         {
-                            "name": "C-9.5: Comprehends narrated/read-out stories and identifies characters, storyline and what the author wants to say",
-                            "color":"rgb(184 240 184)",
-                            "children": [
-                                {
-                                    "name": "Age 3 - 6  • Listens attentively to stories for a short period of time (5-7 minutes)",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 4-5  Recalls the characters and a few events in the story that is narrated and is able to retell in their own words.",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 5-6 Identifies plots and characters in a story and retells it in the correct sequence using vocabulary from the story",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 6-7 Interprets the intent of the plot and characters in a story and retells the story in a different form",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "• Interprets the motivations of the author to write the story and retell the story as if they were the author",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                }
-                            ]
+                            "name": "Comprehends narrated/read-out stories and identifies characters, storyline and what the author wants to say",
+                            "size":123,
+                            "color": "rgb(184 240 184)"
                         },
                         {
-                            "name": "C-9.6: Narrates short stories with clear plot and characters",
-                            "color":"rgb(184 240 184)",
-                            "children": [
-                                {
-                                    "name": "Age 5-6 Imagines and narrates personalized endings of the story",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 6-7 Narrates their own short stories with simple plots and characters.",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 7-8 Creates their own stories, with complex plots and multiple characters (as a group)",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                }
-                            ]
+                            "name": "Narrates short stories with clear plot and characters",
+                            "size":123,
+                            "color": "rgb(184 240 184)"
                         },
                         {
-                            "name": "C-9.7: Knows and uses enough words to carry out day-to-day interactions effectively and can guess meaning of new words by using existing vocabulary",
-                            "color":"rgb(184 240 184)",
-                            "children": [
-                                {
-                                    "name": "Age 3-4 Begins to use appropriate vocabulary for some common and familiar objects and experiences (e.g., tells their name, names of friends, common objects, and pictures, sweet, sour, round, big)",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 4-5 Uses vocabulary acquired from specific themes, and topics introduced in class in their conversations",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 5-6 Uses expanded vocabulary with intentional use of action words, descriptive words, tenses, etc.",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 6-7 Predicts meaning of unknown words in texts using picture and context cues",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 7-8 Uses children’s dictionaries to identify meanings of unknown words encountered in texts",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                }
-                            ]
+                            "name": "Knows and uses enough words to carry out day-to-day interactions effectively and can guess meaning of new words by using existing vocabulary",
+                            "size":123,
+                            "color": "rgb(184 240 184)"
                         }
                     ]
                 }
@@ -2144,161 +287,38 @@
         },
         {
             "name": "Aesthetic and Cultural Development",
-            "color":"rgb(184 240 184)",
+            "size":123,
+            "color": "rgb(184 240 184)",
             "children": [
                 {
-                    "name": "CG-12: Children develop abilities and sensibilities in visual and performing arts, and express their emotions through art in meaningful and joyful ways",
-                    "color":"rgb(184 240 184)",
+                    "name": "Children develop abilities and sensibilities in visual and performing arts, and express their emotions through art in meaningful and joyful ways",
+                    "size":123,
+                    "color": "rgb(184 240 184)",
                     "children": [
                         {
-                            "name": "C-12.1: Explores and plays with a variety of materials and tools to create two-dimensional and three-dimensional artworks in varying sizes",
-                            "color":"rgb(184 240 184)",
-                            "children": [
-                                {
-                                    "name": "Age 3-4 Grasps relevant art materials, tools, and instruments  Explores large and small sizes while creating marks, lines, scribbles, and other 2D and 3D imagery in visual artworks Creates forms and imprints by mixing materials like mud and water, sand and water, flour and water, paint and water, etc. Creates imprints using blocks, stencils, found objects and natural materials",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 4-5 Explores a variety of grasps and grips while using art materials, tools, and instruments (sticks, seeds, pebbles, stones, chalk, thread, pencils, brushes, crayons, powder, scissors, etc.)  Explores large and small sizes while creating marks, lines, scribbles, and other 2D and 3D imagery in visual artworks Creates three- dimensional forms by rolling and patting materials like clay or dough",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 5-6 Explores a variety of grasps and grips while using art materials, tools, and instruments (sticks, seeds, pebbles, stones, chalk, thread, pencils, brushes, crayons, powder, scissors, etc.) Creates large scale work (floor rangolis, wall murals, sculptural forms) in collaboration with peers, facilitators, and local community Creates collages by combining materials of varying consistencies, colours and textures in one’s own arrangement Creates three-dimensional arrangements/ assemblages by combining a variety of found materials and objects  Creates simple patterns using blocks, stencils, found objects and natural materials",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 6-7 Able to vary pressure while using tools to create dark and light impressions/ marks/ lines Able to scale own work in large and small sizes, based on available space or materials (Creating a small clay doll, or a big paper doll) Creates collages by combining materials of varying consistencies, colours and textures in one’s own arrangement Creates three-dimensional arrangements/ assemblages by combining a variety of found materials and objects Creates patterns by combining and arranging materials in a variety of shapes, forms, textures, and colours",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 7-8  Able to vary pressure while using tools to create dark and light impressions/ marks/ lines Able to scale own work in large and small sizes, based on available space or materials (Creating a small clay doll, or a big paper doll) Creates collages by combining materials of varying consistencies, colours and textures in one’s own arrangement Creates three-dimensional arrangements/ assemblages by combining a variety of found materials and objects Creates a variety of textures with one material through its manipulation (e.g., clay, cloth, paper, rubber, wood)",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                }
-                            ]
+                            "name": "Explores and plays with a variety of materials and tools to create two-dimensional and three-dimensional artworks in varying sizes",
+                            "size":123,
+                            "color": "rgb(184 240 184)"
                         },
                         {
-                            "name": "C-12.2: Explores and plays with own voice, body, spaces, and a variety of objects to create music, role-play, dance, and movement",
-                            "color":"rgb(184 240 184)",
-                            "children": [
-                                {
-                                    "name": "Age 3-4 Explores rhythm through voice and body (claps, taps, waves, jumps, hops, recites lyrics in rhythm) Produces a variety of sounds by playing with voice, body, objects and instruments  Explores volume (loud and soft), and pitch (high and low) while using voice, or body, or playing with instruments and objects",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 4-5 Distinguishes fast and slow tempo while exploring rhythm with voice, body or other instruments Produces a variety of sounds according to context/situation using voice, body, or instruments (in role-play, solo or group musical arrangements, mimicry, etc.)  Explores volume (loud and soft), and pitch (high and low) while using voice, or body, or playing with instruments and objects Play with moments of silence and stillness through music, drama and movement practices",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 5-6 Distinguishes fast, medium, and slow tempo while playing with voice, body or other instruments Explores the difference between their singing voice and speaking voice and uses both playfully Differentiates between instrumental and vocal music and explores both Uses volume and pitch to convey ideas and emotions, create music, develop characters and create situations  Play with moments of silence and stillness through music, drama and movement practices",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 6-7 Plays with simple rhythmic patterns in slow and medium tempo  Creates simple sound improvisations in familiar songs, or situations by using voice, body, instruments, and objects (For e.g., playing the beats using different body parts/ instruments for a song, creating the ambience of a dramatic scene through sounds) Moderates volume and pitch based on musical composition, space, context and situation  Explore varying durations of silence and stillness based on space, context, and situation",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 7-8 Follows the beat in songs and movement, and explores own variations based on familiar rhythm patterns  Creates simple sound improvisations in familiar songs, or situations by using voice, body, instruments, and objects (For e.g., playing the beats using different body parts/ instruments for a song, creating the ambience of a dramatic scene through sounds) Attempts to match pitch using voice or instrument Explore varying durations of silence and stillness based on space, context, and situation",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                }
-                            ]
+                            "name": "Explores and plays with own voice, body, spaces, and a variety of objects to create music, role-play, dance, and movement",
+                            "size":123,
+                            "color": "rgb(184 240 184)"
                         },
                         {
-                            "name": "C-12.3: Innovates and works imaginatively to express ideas and emotions through the arts",
-                            "color":"rgb(184 240 184)",
-                            "children": [
-                                {
-                                    "name": "Age 3-4 Observes their surroundings, local culture and examples of art to make connections with their own explorations Creates a variety of visual imagery, body movements, and sound explorations to symbolise objects, people and emotional experiences",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 4-5 Shares their own ideas, tools, and methods of working in the arts and improvises based on familiar examples Mimics a few recognisable physical and behavioural characteristics of people, animals, plants, objects, etc. through visual and performative modes",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 5-6 Identifies and interprets a variety of expressions, ideas and emotions through the arts and applies it in their own artistic explorations Imaginatively combines forms, colours, characters, sounds, spaces and situations to represent their ideas and experiences",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 6-7 & Age 7-8 Explores multiple approaches, or variations while expressing particular ideas and emotions (For e.g., thinking of multiple ways to role-play a cat using body, voice, mask, puppets, or movement combinations) Persists with challenges by exploring multiple solutions and finding own resources Pays attention to thematic details, material properties (texture, colour, size, form), space, and situation while creating and viewing works of art",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                }
-                            ]
+                            "name": "Innovates and works imaginatively to express ideas and emotions through the arts",
+                            "size":123,
+                            "color": "rgb(184 240 184)"
                         },
                         {
-                            "name": "C-12.4: Works collaboratively in the arts",
-                            "color":"rgb(184 240 184)",
-                            "children": [
-                                {
-                                    "name": "Age 3-4 Explores sound and movement produced individually and in group",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 4-5 Produces a variety of speech, movements, sounds, and visual art works in collaboration with peers",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 5-6 Attempts to coordinate speech, movement and sound while playing or performing in pairs or groups Collaborates with peers and facilitator in the spatial arrangement or display of art works",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 6-7 Moderates own volume, pitch and tempo to align with a partner/ group",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 7-8 Pays attention to sequence while performing role- play, music, dance and movement steps",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                }
-                            ]
+                            "name": "Works collaboratively in the arts",
+                            "size":123,
+                            "color": "rgb(184 240 184)"
                         },
                         {
-                            "name": "C-12.5: Communicates and appreciates a variety of responses while creating and experiencing different forms of art, local culture, and heritage",
-                            "color":"rgb(184 240 184)",
-                            "children": [
-                                {
-                                    "name": "Age 3-4 Responds to artworks verbally/non- verbally to express likes, dislikes, and other views Acknowledges the presence of others during activities related to the arts",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 4-5 Communicates responses to different aspects of artworks, or local cultural expression (For e.g., the voice of a character was very loud and scary) Shares responses and ideas in the peer group during arts processes",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 5-6 Compares different artworks/ arrangements/ cultural expressions and articulates a variety of responses Recognises that personal preferences in the arts differ from one person to another",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 6-7 Compares different artworks/ arrangements/ cultural expressions and articulates a variety of responses Shares and appreciates multiple responses in relation to artistic thought and expression",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 7-8 Compares different artworks/ arrangements/ cultural expressions and articulates a variety of responses Shares and appreciates multiple responses in relation to artistic thought and expression",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                }
-                            ]
+                            "name": "Communicates and appreciates a variety of responses while creating and experiencing different forms of art, local culture, and heritage",
+                            "size":123,
+                            "color": "rgb(184 240 184)"
                         }
                     ]
                 }
@@ -2306,135 +326,33 @@
         },
         {
             "name": "Positive Learning Habits",
-            "color":"rgb(184 240 184)",
+            "size":123,
+            "color": "rgb(184 240 184)",
             "children": [
                 {
-                    "name": "CG-13: Children develop habits of learning that allow them to engage actively in formal learning environments like a school classroom",
-                    "color":"rgb(184 240 184)",
+                    "name": "Children develop habits of learning that allow them to engage actively in formal learning environments like a school classroom",
+                    "size":123,
+                    "color": "rgb(184 240 184)",
                     "children": [
                         {
-                            "name": "C-13.1: Attention and intentional action: Acquires skills to plan, focus attention, and direct activities to achieve specific goals",
-                            "color":"rgb(184 240 184)",
-                            "children": [
-                                {
-                                    "name": "Age 3-4 Focuses on self- initiated activities for a short amount of time (e.g., works on a puzzle) Sustains interest with one or two tasks that engage them (e.g., plays at the sensory table for 5-10 minutes)",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 4-5 Focuses attention on activities with adult prompts and support, like listening to stories read to a group for short periods of time in spite of interruptions or distraction Stays with a variety of tasks that interest them (e.g., plays in the dramatic play and block areas for 10 minutes)",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 5-6 Focuses attention on tasks and activities like painting or block building for longer periods of time with increasing independence Sustains engagement with a task that interests them for long periods of time (e.g., painting for 20 minutes) Begins to attend to adult-initiated tasks that are not based on their interests (e.g., participates in a teacher-led small group)",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 6-7 Attends to adult-initiated tasks that are not based on their interests (e.g., participates in a teacher-led small group) Sustains engagement with a task for long periods of time (20 minutes)",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 7-8 Attends to adult- initiated tasks that are not based on their interests (e.g., participates in a teacher-led small group) Sustains engagement with a task for long periods of time (30 minutes)",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                }
-                            ]
+                            "name": "Attention and intentional action: Acquires skills to plan, focus attention, and direct activities to achieve specific goals",
+                            "size":123,
+                            "color": "rgb(184 240 184)"
                         },
                         {
-                            "name": "C-13.2: Memory and mental flexibility: Develops adequate working memory, mental flexibility (to sustain or shift attention appropriately), and self-control (to resist impulsive actions or responses) that would assist them in learning in structured environments",
-                            "color":"rgb(184 240 184)",
-                            "children": [
-                                {
-                                    "name": "Age 3-4 Practices remembering by recounting a story or verbally describing a picture no longer in view Remembers where materials are kept in familiar environments (e.g., can retrieve spare clothes from shelf) Adjusts to changes in routines when informed in advance Identifies signals for changes between activities Makes transitions that are part of a daily schedule Begins to take turns and waits in line for short periods of time with adult support",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 4-5 Repeats a list of items needed for self-care or play Plays simple memory and matching games Remembers and follows 2- step directions to complete simple tasks (e.g., “wash your hands then help prepare or eat a snack”) Remembers actions that go with stories or songs Demonstrates “cognitive flexibility” by trying another approach, with adult support, when something does not work the first time (e.g., tries a different way to climb a structure when the first effort does not work or uses a tool or another person to get an item out of reach) Shows ability to shift attention from one task or activity to another when necessary Seeks adult help when distressed with behaviour of or interaction with a peer Begins to use words, signs or gestures to express distress with peers (instead of biting or pushing) with adult support Begins to inhibit impulsive behaviours with adult support (e.g., inhibits initial response to call out an answer to a question during story time with educator's reminder)",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 5-6 Remembers several steps in sequence to complete multi-step directions (e.g., complete a puzzle, return it to the shelf, and join the group at the rug) Teaches another child the steps taken for a given action (e.g., shows a peer how to use soap to wash hands before snack) Remembers and recalls short stories and songs of up to 5 sentences. Adapts to new rules in game or activity (e.g., sorting cards by colour and then by shape) Considers ideas from adults and other children in finding a solution or strategy Demonstrates flexibility and adaptability with less adult prompting (e.g., sharing toys or trying out new materials) Responds consistently to adult suggestions to try out different activities Controls impulses with more independence (e.g., walks instead of runs; asks for a turn with a toy instead of grabbing; waits to share out instead of calling out) Uses strategies to help control own actions more frequently such as creating physical distance or finding an alternative toy or activity",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 6-7 • Remembers and immediately recalls • (e.g., given 4 digits repeats in the same sequence) • Adopts and adapts to the classroom situations  • Participates in the schedule actively and takes suggestions for improvement Manages emotions, waits for their turn, follows rules, frames rules, demonstrates leadership qualities and suggests ideas for change in activities",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 7 - 8  • Remembers and recalls, identifies missing things (e.g., two identical scenes with one or two significant difference, studies both pictures and points out the difference) Adopts, adapts and creates classroom situations congenial for learning • Participates actively in all activities, welcomes suggestions and feedback  Manages emotions, waits for their turn, follows rules, frames rules, demonstrates leadership qualities and suggests ideas for change in activities",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                }
-                            ]
+                            "name": "Memory and mental flexibility: Develops adequate working memory, mental flexibility (to sustain or shift attention appropriately), and self-control (to resist impulsive actions or responses) that would assist them in learning in structured environments",
+                            "size":123,
+                            "color": "rgb(184 240 184)"
                         },
                         {
-                            "name": "C-13.3: Observation, wonder, curiosity, and exploration: Observes minute details of objects, wonders and explores using various senses, tinkers with objects, asks questions",
-                            "color":"rgb(184 240 184)",
-                            "children": [
-                                {
-                                    "name": "Age 3-4 Enjoys spending time in the garden/outdoors Shows curiosity in exploring without fear in outdoor contexts  Shows curiosity in exploring immediate surroundings (in outdoor contexts)-with adult support",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 4-5 Shows curiosity and wonder in the natural environment Expresses fear in appropriate situations  Shows curiosity in exploring immediate surroundings (in outdoor contexts)-with or without adult support",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 5-6 Draws, paints, sings, dances to express their joy and wonder Balances curiosity and fear in play and outdoor situations  Shows curiosity and wonder in exploring collections from the nature/immediate surroundings",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 6-7 Likes to share their joy with other children through play, music and dance Shows intent in dealing with fear • Shows eagerness and takes initiative in exploring the immediate surroundings and use resources from nature (under adult guidance)",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 7-8 Uses language to articulate and express their joy Engages with others fearlessly but respectfully  Shows eagerness and takes initiative in exploring the immediate surroundings and uses resources from nature responsibly",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                }
-                            ]
+                            "name": "Observation, wonder, curiosity, and exploration: Observes minute details of objects, wonders and explores using various senses, tinkers with objects, asks questions",
+                            "size":123,
+                            "color": "rgb(184 240 184)"
                         },
                         {
-                            "name": "C-13.4: Classroom norms: Adopts and follows norms with agency and understanding",
-                            "color":"rgb(184 240 184)",
-                            "children": [
-                                {
-                                    "name": "Age 3-4 Observes and imitates adult behaviour for classroom norms",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 4-5 Follows classroom norms with Teacher’s cues",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 5-6 Follows and assists others in following classroom norms  Creates do-it- yourself (DIY) classroom job charts/posters with the support of Teachers and follows it",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 6-7 Participates in discussing the classroom norms and behaves according to norms  Creates DIY classroom job charts/posters and follows it",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                },
-                                {
-                                    "name": "Age 7-8 Participates in setting classroom norms and behaves according Creates DIY classroom job charts/posters and illustrates them as well; follows it responsibly",
-                                    "color":"rgb(184 240 184)",
-                                    "size": 123
-                                }
-                            ]
+                            "name": "Classroom norms: Adopts and follows norms with agency and understanding",
+                            "size":123,
+                            "color": "rgb(184 240 184)"
                         }
                     ]
                 }
