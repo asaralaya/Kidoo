@@ -9,10 +9,12 @@
     box-shadow: 10 px;
     opacity: 0.75
 }
-.cover{
-    height:400px !important;
+
+.cover {
+    height: 400px !important;
 }
-.tag{
+
+.tag {
     font-size: 34px;
     color: white;
     font-family: cursive;
@@ -22,33 +24,30 @@
 
 
 /* Text animation */
-.animate-charcter
-{
-   text-transform: uppercase;
-  background-image: linear-gradient(
-    -225deg,
-    #231557 0%,
-    #44107a 29%,
-    #ff1361 67%,
-    #fff800 100%
-  );
-  background-size: auto auto;
-  background-clip: border-box;
-  background-size: 200% auto;
-  color: #fff;
-  background-clip: text;
-  //text-fill-color: transparent;
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  animation: textclip 2s linear infinite;
-  display: inline-block;
-      font-size: 190px;
+.animate-charcter {
+    text-transform: uppercase;
+    background-image: linear-gradient(-225deg,
+            #231557 0%,
+            #44107a 29%,
+            #ff1361 67%,
+            #fff800 100%);
+    background-size: auto auto;
+    background-clip: border-box;
+    background-size: 200% auto;
+    color: #fff;
+    background-clip: text;
+    //text-fill-color: transparent;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: textclip 2s linear infinite;
+    display: inline-block;
+    font-size: 190px;
 }
 
 @keyframes textclip {
-  to {
-    background-position: 200% center;
-  }
+    to {
+        background-position: 200% center;
+    }
 }
 
 .app-cat {
@@ -564,46 +563,46 @@ body {
     position: relative;
     background: linear-gradient(to bottom right, #070630 0%, #060454 100%);
     min-height: 100vh;
-  }
-  
-  
-  // FOOTER
-  .footer {
+}
+
+
+// FOOTER
+.footer {
     color: white;
     font-size: 10px;
     position: fixed;
     bottom: 0;
     font-weight: 200;
     padding: 10px 20px;
-  
+
     a {
-  
-      &,
-      &:hover,
-      &:focus,
-      &:visited {
-        color: #c6c6c6;
-      }
+
+        &,
+        &:hover,
+        &:focus,
+        &:visited {
+            color: #c6c6c6;
+        }
     }
-  }
-  
-  
-  
-  .main {
+}
+
+
+
+.main {
     width: 100%;
     height: 100%;
     background: white;
-  }
-  
-  .boxes {
+}
+
+.boxes {
     position: relative;
     width: 30px;
     height: 30px;
     background: white;
     float: left;
-  }
-  
-  .circle {
+}
+
+.circle {
     position: absolute;
     width: 6%;
     height: 6%;
@@ -612,53 +611,95 @@ body {
     opacity: 0.5;
     border-radius: 50%;
     background: black;
-  }
+}
 
 
-  /* multi color */
-  .page-title {
-    margin-top:0rem;
-    padding:1.5rem;
-    background:#f2f2f2;
+/* multi color */
+.page-title {
+    margin-top: 0rem;
+    padding: 1.5rem;
+    background: #f2f2f2;
     text-align: center;
     border-radius: 1rem;
     border-bottom-left-radius: 5rem;
     border-bottom-right-radius: 5rem;
     /* background: transparent; */
     box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px !important;
-    h2  {
-      margin-bottom:1rem;
-      font-size: 48px;
-    }
-    p {
-      margin-bottom: 0;
-      font-size: 24px;
-    }
-  } 
-  .multi-color {
-    em {
-     
-    }
-    em:nth-child(1) {
-      color: #F44336;
-    }
-    em:nth-child(2) {
-      color: #9C27B0;
-    }
-    em:nth-child(3) {
-      color: #3F51B5;
-    }
-    em:nth-child(4) {
-      color: #00BCD4;
-    }
-    em:nth-child(5) {
-      color: #4CAF50;
-    }
-    em:nth-child(6) {
-      color: #FFC107;
-    }
-  }
 
-  .item-box {
+    h2 {
+        margin-bottom: 1rem;
+        font-size: 48px;
+    }
+
+    p {
+        margin-bottom: 0;
+        font-size: 24px;
+    }
+}
+
+.multi-color {
+    em {}
+
+    em:nth-child(1) {
+        color: #F44336;
+    }
+
+    em:nth-child(2) {
+        color: #9C27B0;
+    }
+
+    em:nth-child(3) {
+        color: #3F51B5;
+    }
+
+    em:nth-child(4) {
+        color: #00BCD4;
+    }
+
+    em:nth-child(5) {
+        color: #4CAF50;
+    }
+
+    em:nth-child(6) {
+        color: #FFC107;
+    }
+}
+
+.item-box {
     background-color: #fff;
-  }
+}
+
+
+@media only screen and (max-width: 600px) {
+    .app-logo {
+        text-align: center;
+    }
+
+    .app-cat {
+        display: none;
+    }
+
+    .mobile {
+        display: flex;
+        flex-direction: column;
+    }
+    .cover{
+       height: 200px !important;
+    }
+    button {
+        font-size: 20px !important;
+    }
+    .button-container{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    .page-title{
+        display: flex;
+        flex-direction: column;
+    }
+    .logo>img{
+        border-top-left-radius: 30px;
+        border-bottom-left-radius:  30px;
+    }
+}
