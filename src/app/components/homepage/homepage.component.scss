@@ -5,14 +5,7 @@
     width: fit-content;
 }
 
-.logo::before {
-    box-shadow: 10 px;
-    opacity: 0.75
-}
 
-.cover {
-    height: 400px !important;
-}
 
 .tag {
     font-size: 34px;
@@ -55,15 +48,7 @@
     margin-right: 5rem;
 }
 
-.button-row {
-    margin: auto;
-    padding: 14px;
-}
 
-.buttons {
-    display: flex;
-    justify-content: space-between;
-}
 
 $color-black: #161616;
 $color-white: #fff;
@@ -553,9 +538,6 @@ button:hover .fourth {
     left: 0;
 }
 
-.button-container {
-    justify-content: space-evenly;
-}
 
 body {
     display: flex;
@@ -564,28 +546,6 @@ body {
     background: linear-gradient(to bottom right, #070630 0%, #060454 100%);
     min-height: 100vh;
 }
-
-
-// FOOTER
-.footer {
-    color: white;
-    font-size: 10px;
-    position: fixed;
-    bottom: 0;
-    font-weight: 200;
-    padding: 10px 20px;
-
-    a {
-
-        &,
-        &:hover,
-        &:focus,
-        &:visited {
-            color: #c6c6c6;
-        }
-    }
-}
-
 
 
 .main {
@@ -667,42 +627,4 @@ body {
 
 .item-box {
     background-color: #fff;
-}
-
-
-@media only screen and (max-width: 600px) {
-    .app-logo {
-        text-align: center;
-    }
-
-    .app-cat {
-        display: none;
-    }
-
-    .mobile {
-        display: flex;
-        flex-direction: column;
-    }
-    .cover{
-       height: 200px !important;
-    }
-    button {
-        font-size: 20px !important;
-    }
-    .button-container{
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-    }
-    .page-title{
-        display: flex;
-        flex-direction: column;
-    }
-    .logo>img{
-        border-top-left-radius: 30px;
-        border-bottom-left-radius:  30px;
-    }
-    .explore{
-        margin-bottom: 10px;
-    }
 }
